@@ -1,0 +1,3 @@
+[DEBUG] 2019-10-29 21:41:15,620 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
+[DEBUG] 2019-10-29 21:41:15,624 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
+[DEBUG] 2019-10-29 21:41:19,763 basePropertiesCucm.intializeDriver() - URL provided

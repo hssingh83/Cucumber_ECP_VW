@@ -1,0 +1,572 @@
+# Created at 2019-10-26T00:31:35.908
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-26T00:31:41.496
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.500
+Unexpected IOException with stream:   Scenario: Verify that login with Empirix Admin page and Verify the element on the home page    # features/F0002_login_With_Empirix_Admin.feature:4
+
+
+# Created at 2019-10-26T00:31:41.500
+Unexpected IOException with stream:     Given Initialize the Driver of the browser and provide the URL to login with Empirix Admin   # SD0002_login_With_Empirix_Admin.initialize_the_driver_of_the_browser_and_provide_the_url()
+
+
+# Created at 2019-10-26T00:31:41.500
+Unexpected IOException with stream:     When Login with username and password as Empirix Admin                                       # SD0002_login_With_Empirix_Admin.logInWithExpirixAdmin()
+
+
+# Created at 2019-10-26T00:31:41.504
+Unexpected IOException with stream:       java.lang.NullPointerException
+      	at stepDefinations.SD0002_login_With_Empirix_Admin.logInWithExpirixAdmin(SD0002_login_With_Empirix_Admin.java:51)
+      	at ?.When Login with username and password as Empirix Admin(features/F0002_login_With_Empirix_Admin.feature:6)
+
+
+
+# Created at 2019-10-26T00:31:41.504
+Unexpected IOException with stream:     Then Verify that login successfully with Empirix admin user                                  # SD0002_login_With_Empirix_Admin.login_Page_Verification()
+
+
+# Created at 2019-10-26T00:31:41.504
+Unexpected IOException with stream:     And Tab Availability Validation on the home screen while login with Empirix Admin page       # SD0002_login_With_Empirix_Admin.home_screen_verification()
+
+
+# Created at 2019-10-26T00:31:41.504
+Unexpected IOException with stream:     And Verify header elements on the pages as as Empirix Admin                                  # SD0002_login_With_Empirix_Admin.home_screen_footer_Validation()
+
+
+# Created at 2019-10-26T00:31:41.508
+Unexpected IOException with stream:     And Verify footer elements on the pages as Empirix Admin                                     # SD0002_login_With_Empirix_Admin.home_screen_header_Validation()
+
+
+# Created at 2019-10-26T00:31:41.508
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.508
+Unexpected IOException with stream:     #            Dashboard Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.512
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.512
+Unexpected IOException with stream:     #@Sanity
+
+
+# Created at 2019-10-26T00:31:41.512
+Unexpected IOException with stream:     #Scenario: Verify that dashboard tab pages
+
+
+# Created at 2019-10-26T00:31:41.512
+Unexpected IOException with stream:     #Given Initialize the Driver of the browser and provide the URL to login with Empirix Admin
+
+
+# Created at 2019-10-26T00:31:41.512
+Unexpected IOException with stream:     When Navigate to dashboard tab                                                               # SD0002_login_With_Empirix_Admin.navigate_to_dashboard_tab()
+
+
+# Created at 2019-10-26T00:31:41.516
+Unexpected IOException with stream:     Then Validate the elements on the OverallPerfomance_section on the dashboard tab page        # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_overallperfomancesection_on_the_dashboard_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.516
+Unexpected IOException with stream:     And Validate the elements on the activetest_section on the dashboard tab page                # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_activetestsection_on_the_dashboard_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.516
+Unexpected IOException with stream:     And Verify header elements on the pages while access dashboard tab page                      # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_dashboard_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.516
+Unexpected IOException with stream:     And Verify footer elements on the pages while access dashboard tab page                      # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_dashboard_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.520
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.520
+Unexpected IOException with stream:     #            Alert Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.520
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.520
+Unexpected IOException with stream:     When Navigate to Alert tab                                                                   # SD0002_login_With_Empirix_Admin.navigate_to_alert_tab()
+
+
+# Created at 2019-10-26T00:31:41.524
+Unexpected IOException with stream:     Then Validate the elements on the Alert tab page                                             # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_alert_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.524
+Unexpected IOException with stream:     And Verify header elements on the pages while access alert tab pages                         # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_alert_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.524
+Unexpected IOException with stream:     And Verify footer elements on the pages while access alert tab pages                         # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_alert_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.524
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.524
+Unexpected IOException with stream:     #            Test Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.528
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.528
+Unexpected IOException with stream:     When Navigate to Test tab                                                                    # SD0002_login_With_Empirix_Admin.navigate_to_test_tab()
+
+
+# Created at 2019-10-26T00:31:41.528
+Unexpected IOException with stream:     Then Validate the elements on the Test tab page                                              # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_test_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.532
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Test tab pages                          # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_test_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.532
+Unexpected IOException with stream:     And Verify header elements on the pages while access Test tab pages                          # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_test_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.532
+Unexpected IOException with stream:     Then Validate element while Create a Test using Test create button                           # SD0002_login_With_Empirix_Admin.validate_element_while_create_a_test_using_test_create_button()
+
+
+# Created at 2019-10-26T00:31:41.536
+Unexpected IOException with stream:     And Verify header elements on the pages while access Test tab while create test using button # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_test_tab_while_create_test_using_button()
+
+
+# Created at 2019-10-26T00:31:41.536
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Test tab while create test using button # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_test_tab_while_create_test_using_button()
+
+
+# Created at 2019-10-26T00:31:41.536
+Unexpected IOException with stream:     Then Validate element while Create a Test using Test create link                             # SD0002_login_With_Empirix_Admin.validate_element_while_create_a_test_using_test_create_link()
+
+
+# Created at 2019-10-26T00:31:41.536
+Unexpected IOException with stream:     And Verify header elements on the pages while access Test tab while create test using link   # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_test_tab_while_create_test_using_link()
+
+
+# Created at 2019-10-26T00:31:41.540
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Test tab while create test using link   # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_test_tab_while_create_test_using_link()
+
+
+# Created at 2019-10-26T00:31:41.540
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.540
+Unexpected IOException with stream:     #            Tag Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.540
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.544
+Unexpected IOException with stream:     When Navigate to Tag tab                                                                     # SD0002_login_With_Empirix_Admin.navigate_to_tag_tab()
+
+
+# Created at 2019-10-26T00:31:41.544
+Unexpected IOException with stream:     Then Validate the elements on the Tag tab page                                               # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_tag_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.544
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Tag tab pages                           # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_tag_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.544
+Unexpected IOException with stream:     And Verify header elements on the pages while access Tag tab pages                           # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_tag_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.548
+Unexpected IOException with stream:     Then Validate element while Create a Tag using Tag create tag button                         # SD0002_login_With_Empirix_Admin.validate_element_while_create_a_test_using_tag_create_button()
+
+
+# Created at 2019-10-26T00:31:41.548
+Unexpected IOException with stream:     And Verify header elements on the pages while access Tag tab while create test using button  # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_tag_tab_while_create_test_using_button()
+
+
+# Created at 2019-10-26T00:31:41.548
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Tag tab while create test using button  # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_tag_tab_while_create_test_using_button()
+
+
+# Created at 2019-10-26T00:31:41.548
+Unexpected IOException with stream:     Then Validate element while Create a Tag using Tag create link                               # SD0002_login_With_Empirix_Admin.validate_element_while_create_a_test_using_tag_create_link()
+
+
+# Created at 2019-10-26T00:31:41.552
+Unexpected IOException with stream:     And Verify header elements on the pages while access Tag tab while create test using link    # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_tag_tab_while_create_test_using_link()
+
+
+# Created at 2019-10-26T00:31:41.552
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Tag tab while create test using link    # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_tag_tab_while_create_test_using_link()
+
+
+# Created at 2019-10-26T00:31:41.552
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.552
+Unexpected IOException with stream:     #            Script Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.556
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.556
+Unexpected IOException with stream:     When Navigate to Script tab                                                                  # SD0002_login_With_Empirix_Admin.navigate_to_script_tab()
+
+
+# Created at 2019-10-26T00:31:41.556
+Unexpected IOException with stream:     Then Validate the elements on the GoScriptBuilder tab page                                   # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_goscriptbuilder_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.556
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Script tab pages                        # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.560
+Unexpected IOException with stream:     And Verify header elements on the pages while access Script tab pages                        # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.560
+Unexpected IOException with stream:     When Navigate to GoScriptBuilder using createGSBbybutton                                     # SD0002_login_With_Empirix_Admin.navigate_to_goscriptbuilder_using_creategsbbybutton()
+
+
+# Created at 2019-10-26T00:31:41.560
+Unexpected IOException with stream:     Then Validate the elements on the GoScriptBuilder while click createGSBbybutton              # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_goscriptbuilder_while_click_creategsbbybutton()
+
+
+# Created at 2019-10-26T00:31:41.564
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Script tab pages                        # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.564
+Unexpected IOException with stream:     And Verify header elements on the pages while access Script tab pages                        # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.564
+Unexpected IOException with stream:     When Navigate to GoScriptBuilder using createGSBbyLink                                       # SD0002_login_With_Empirix_Admin.navigate_to_goscriptbuilder_using_creategsbbylink()
+
+
+# Created at 2019-10-26T00:31:41.564
+Unexpected IOException with stream:     Then Validate the elements on the GoScriptBuilder while click createGSBbyLink                # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_goscriptbuilder_while_click_creategsbbylink()
+
+
+# Created at 2019-10-26T00:31:41.564
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createGSBbyLink                         # SD0002_login_With_Empirix_Admin.Verify_footer_elements_on_the_pages_while_access_createGSBbyLink()
+
+
+# Created at 2019-10-26T00:31:41.568
+Unexpected IOException with stream:     And Verify header elements on the pages while access createGSBbyLink                         # SD0002_login_With_Empirix_Admin.Verify_header_elements_on_the_pages_while_access_createGSBbyLink()
+
+
+# Created at 2019-10-26T00:31:41.568
+Unexpected IOException with stream:     When Navigate to ScriptUpload Tab                                                            # SD0002_login_With_Empirix_Admin.navigate_to_scriptupload_tab()
+
+
+# Created at 2019-10-26T00:31:41.568
+Unexpected IOException with stream:     Then navigate to scriptUploadTab and validate the elements on that tab                       # SD0002_login_With_Empirix_Admin.navigate_to_scriptuploadtab_and_validate_the_elements_on_that_tab()
+
+
+# Created at 2019-10-26T00:31:41.568
+Unexpected IOException with stream:     And Verify footer elements on the pages while access scriptUploadTab pages                   # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_scriptuploadtab_pages()
+
+
+# Created at 2019-10-26T00:31:41.572
+Unexpected IOException with stream:     And Verify header elements on the pages while access scriptUploadTab pages                   # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_scriptuploadtab_pages()
+
+
+# Created at 2019-10-26T00:31:41.572
+Unexpected IOException with stream:     Then validate the element while clicking createSUbybutton                                    # SD0002_login_With_Empirix_Admin.validate_the_element_while_clicking_createsubybutton()
+
+
+# Created at 2019-10-26T00:31:41.572
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createSUbybutton pages                  # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_createsubybutton_pages()
+
+
+# Created at 2019-10-26T00:31:41.572
+Unexpected IOException with stream:     And Verify header elements on the pages while access createSUbybutton pages                  # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_createsubybutton_pages()
+
+
+# Created at 2019-10-26T00:31:41.576
+Unexpected IOException with stream:     Then validate the element while clicking createSUbyLink                                      # SD0002_login_With_Empirix_Admin.validate_the_element_while_clicking_createsubylink()
+
+
+# Created at 2019-10-26T00:31:41.576
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createSUbyLink pages                    # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-26T00:31:41.576
+Unexpected IOException with stream:     And Verify header elements on the pages while access createSUbyLink pages                    # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-26T00:31:41.576
+Unexpected IOException with stream:     When Navigate to CSV Tab                                                                     # SD0002_login_With_Empirix_Admin.navigate_to_csv_tab()
+
+
+# Created at 2019-10-26T00:31:41.576
+Unexpected IOException with stream:     Then validate the element while clicking CSV Tab                                             # SD0002_login_With_Empirix_Admin.validate_the_element_while_clicking_csv_tab()
+
+
+# Created at 2019-10-26T00:31:41.580
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createSUbyLink pages                    # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-26T00:31:41.580
+Unexpected IOException with stream:     And Verify header elements on the pages while access createSUbyLink pages                    # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-26T00:31:41.580
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.584
+Unexpected IOException with stream:     #            Variable Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.584
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.584
+Unexpected IOException with stream:     When Navigate to Variable tab                                                                # SD0002_login_With_Empirix_Admin.navigate_to_variable_tab()
+
+
+# Created at 2019-10-26T00:31:41.584
+Unexpected IOException with stream:     Then Validate the elements on the Variable tab page                                          # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_variable_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.584
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Variable tab pages                      # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_variable_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.588
+Unexpected IOException with stream:     And Verify header elements on the pages while access Variable tab pages                      # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_variable_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.588
+Unexpected IOException with stream:     When Navigate to Variable using createVariableByButton                                       # SD0002_login_With_Empirix_Admin.navigate_to_variable_using_createvariablebybutton()
+
+
+# Created at 2019-10-26T00:31:41.588
+Unexpected IOException with stream:     Then Validate the elements on the Variable tab while click createVariableByButton            # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_variable_tab_while_click_createvariablebybutton()
+
+
+# Created at 2019-10-26T00:31:41.588
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createVariableByButton                  # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_creategsbbylink()
+
+
+# Created at 2019-10-26T00:31:41.588
+Unexpected IOException with stream:     And Verify header elements on the pages while access createVariableByButton                  # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_createvariablebybutton()
+
+
+# Created at 2019-10-26T00:31:41.592
+Unexpected IOException with stream:     When Navigate to Variable using createVariableByLink                                         # SD0002_login_With_Empirix_Admin.navigate_to_variable_using_createvariablebylink()
+
+
+# Created at 2019-10-26T00:31:41.592
+Unexpected IOException with stream:     Then Validate the elements on the Variable tab while click createVariableByLink              # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_variable_tab_while_click_createvariablebylink()
+
+
+# Created at 2019-10-26T00:31:41.592
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createVariableByLink                    # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_createvariablebylink()
+
+
+# Created at 2019-10-26T00:31:41.592
+Unexpected IOException with stream:     And Verify header elements on the pages while access createVariableByLink                    # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_createvariablebylink()
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     #            Hammer Tab Validation
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     When Navigate to Hammer tab                                                                  # SD0002_login_With_Empirix_Admin.navigate_to_hammer_tab()
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab page                                            # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_hammer_tab_page()
+
+
+# Created at 2019-10-26T00:31:41.596
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Hammer tab pages                        # SD0002_login_With_Empirix_Admin.verify_footer_elements_on_the_pages_while_access_hammer_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.600
+Unexpected IOException with stream:     And Verify header elements on the pages while access Hammer tab pages                        # SD0002_login_With_Empirix_Admin.verify_header_elements_on_the_pages_while_access_hammer_tab_pages()
+
+
+# Created at 2019-10-26T00:31:41.600
+Unexpected IOException with stream:     When Navigate to Hammer using createHammerByButton                                           # SD0002_login_With_Empirix_Admin.navigate_to_hammer_using_createhammerbybutton()
+
+
+# Created at 2019-10-26T00:31:41.600
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab while click createHammerByButton                # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_hammer_tab_while_click_createhammerbybutton()
+
+
+# Created at 2019-10-26T00:31:41.600
+Unexpected IOException with stream:     When Navigate to Hammer using createHammerByLink                                             # SD0002_login_With_Empirix_Admin.navigate_to_hammer_using_createhammerbylink()
+
+
+# Created at 2019-10-26T00:31:41.600
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab while click createHammerByLink                  # SD0002_login_With_Empirix_Admin.validate_the_elements_on_the_hammer_tab_while_click_createhammerbylink()
+
+
+# Created at 2019-10-26T00:31:41.604
+Unexpected IOException with stream:     ##################################################################################
+
+
+# Created at 2019-10-26T00:31:41.604
+Unexpected IOException with stream:     And Close the browser successfully which was login as Empirix Admin                          # SD0002_login_With_Empirix_Admin.close_the_application()
+
+
+# Created at 2019-10-26T00:31:41.612
+Unexpected IOException: 8,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),null,java.lang.NullPointerException,null,java.lang.NullPointerException,TestRunner>AbstractTestNGCucumberTests.feature:21 \00BB Cucumber java.lang.NullPoi...,cucumber.runtime.CucumberException: java.lang.NullPointerException\000ACaused by: java.lang.NullPointerException\000A
+
+
+# Created at 2019-10-26T00:31:41.612
+Unexpected IOException with stream: 
+Test Case feature failed
+
+
+
+# Created at 2019-10-26T00:31:41.612
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-26T00:31:41.669
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.669
+Unexpected IOException with stream: Failed scenarios:
+
+
+# Created at 2019-10-26T00:31:41.669
+Unexpected IOException with stream: features/F0002_login_With_Empirix_Admin.feature:4 
+
+# Created at 2019-10-26T00:31:41.673
+Unexpected IOException with stream: # Scenario: Verify that login with Empirix Admin page and Verify the element on the home page
+
+
+# Created at 2019-10-26T00:31:41.673
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.673
+Unexpected IOException with stream: 1
+
+# Created at 2019-10-26T00:31:41.673
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-10-26T00:31:41.673
+Unexpected IOException with stream: 1 failed
+
+# Created at 2019-10-26T00:31:41.677
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-26T00:31:41.677
+Unexpected IOException with stream: 82
+
+# Created at 2019-10-26T00:31:41.677
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-10-26T00:31:41.677
+Unexpected IOException with stream: 1 failed
+
+# Created at 2019-10-26T00:31:41.681
+Unexpected IOException with stream: , 
+
+# Created at 2019-10-26T00:31:41.681
+Unexpected IOException with stream: 80 skipped
+
+# Created at 2019-10-26T00:31:41.681
+Unexpected IOException with stream: , 
+
+# Created at 2019-10-26T00:31:41.681
+Unexpected IOException with stream: 1 passed
+
+# Created at 2019-10-26T00:31:41.685
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-26T00:31:41.685
+Unexpected IOException with stream: 2m
+
+# Created at 2019-10-26T00:31:41.685
+Unexpected IOException with stream: 8.089s
+
+
+# Created at 2019-10-26T00:31:41.685
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.685
+Unexpected IOException with stream: java.lang.NullPointerException
+
+# Created at 2019-10-26T00:31:41.689
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.689
+Unexpected IOException with stream: 	at stepDefinations.SD0002_login_With_Empirix_Admin.logInWithExpirixAdmin(SD0002_login_With_Empirix_Admin.java:51)
+
+# Created at 2019-10-26T00:31:41.689
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.689
+Unexpected IOException with stream: 	at ?.When Login with username and password as Empirix Admin(features/F0002_login_With_Empirix_Admin.feature:6)
+
+# Created at 2019-10-26T00:31:41.689
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.693
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:31:41.721
+Unexpected IOException with stream: 
+ Test Case: 001- Login Page Verification  Completed
+
+
+# Created at 2019-10-26T00:31:41.721
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-26T00:31:42.225
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

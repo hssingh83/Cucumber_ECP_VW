@@ -1,0 +1,26 @@
+[DEBUG] 2019-08-02 11:57:05,631 baseProperties.intializeDriver() - Chrome Driver intilized successfully
+[DEBUG] 2019-08-02 11:57:05,635 baseProperties.intializeDriver() - Chrome Browser selected & Launching in few second
+[DEBUG] 2019-08-02 11:57:05,643 TC0001_login_Page_Verification.initialize_the_driver_of_the_browser_and_provide_the_url() - Driver intilized successfully
+[DEBUG] 2019-08-02 11:57:05,643 TC0001_login_Page_Verification.initialize_the_driver_of_the_browser_and_provide_the_url() - Browser selected & Launching in few second
+[DEBUG] 2019-08-02 11:57:16,311 TC0001_login_Page_Verification.provide_the_url() - URL provided
+[DEBUG] 2019-08-02 11:57:17,456 TC0001_login_Page_Verification.maximise_the_selected_browser() - Screen maximized successfully
+[DEBUG] 2019-08-02 11:57:17,456 TC0001_login_Page_Verification.maximise_the_selected_browser() - Waiting to access above URL
+[DEBUG] 2019-08-02 11:57:17,472 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - LogIn Page Label verification Started
+[DEBUG] 2019-08-02 11:57:23,901 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Present on login Page
+[DEBUG] 2019-08-02 11:57:23,942 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Enabled on login Page
+[DEBUG] 2019-08-02 11:57:24,016 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Sign in to continue label' appeared on Login page
+[DEBUG] 2019-08-02 11:57:24,104 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'User Name' label' appeared on Login page
+[DEBUG] 2019-08-02 11:57:24,175 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Password: label' appeared on Login page
+[DEBUG] 2019-08-02 11:57:24,270 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' appeared on Login page
+[DEBUG] 2019-08-02 11:57:24,333 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is clickable on Login page
+[DEBUG] 2019-08-02 11:57:24,392 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is not selected on Login page
+[DEBUG] 2019-08-02 11:57:24,486 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Sign In button is displayed
+[DEBUG] 2019-08-02 11:57:24,538 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Save button is enabled
+[DEBUG] 2019-08-02 11:57:24,628 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Remember my User Name' appeared on login page
+[DEBUG] 2019-08-02 11:57:24,667 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Copyright' label is appearing on the page
+[DEBUG] 2019-08-02 11:57:24,773 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Additional CopyRight Info present on the page
+[DEBUG] 2019-08-02 11:57:24,773 pom001_VoiceWatch_logIn_Page.getCopyRightLink() - Verified that additional copy right link clickable
+[DEBUG] 2019-08-02 11:57:24,892 TC0001_login_Page_Verification.access_to_voicewatch_page_and_verified_the_elements() - Verified that 'Additional Copy Right' Link clickable
+[DEBUG] 2019-08-02 11:57:24,936 TC0001_login_Page_Verification.access_to_voicewatch_page_and_verified_the_elements() - Verified that additinal infomation'Copyright © 2010-14 ForgeRock AS, all rights reserved.' appered after click link
+[DEBUG] 2019-08-02 11:57:26,010 TC0001_login_Page_Verification.verified_the_voicewatch_login_screen_appeared() -  Verified that VoiceWatch login screen appeared successfully
+[DEBUG] 2019-08-02 11:57:26,209 TC0001_login_Page_Verification.close_the_application() - Application closed successfully

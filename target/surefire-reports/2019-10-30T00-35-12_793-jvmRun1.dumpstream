@@ -1,0 +1,2761 @@
+# Created at 2019-10-30T00:35:45.551
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-30T00:35:50.518
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:35:50,518 pom001_VoiceWatch_logIn_Page.getPassword() - Password inserted Successfully
+
+
+# Created at 2019-10-30T00:35:50.618
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:35:50,618 pom001_VoiceWatch_logIn_Page.getSignButton() - Sigin button Clicked Successfully
+
+
+# Created at 2019-10-30T00:35:50.755
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:35:50,755 TC0001_login_Page_Verification.logInWithExpirixAdmin() - Waiting for launch VoiceWatch application using above creadetails
+
+
+# Created at 2019-10-30T00:36:13.810
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:13,806 TC0001_login_Page_Verification.login_Page_Verification() - Verified that VoiceWatch Application login successfully with Empirix Admin creadetial
+
+
+# Created at 2019-10-30T00:36:13.810
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:13,810 TC0001_login_Page_Verification.login_Page_Verification() - Validate the requiment as Aceess Level= Empirix & Role=Empirix Admin
+
+
+# Created at 2019-10-30T00:36:13.814
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,814 pom002_VoiceWatch_Home_Page.home_screen() - VoiceWatch Dashboard Page verification Started
+
+
+# Created at 2019-10-30T00:36:13.863
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,863 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' appeared on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-30T00:36:13.891
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,891 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' enabled on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-30T00:36:13.939
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,939 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:13.967
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,967 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:13.975
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:13,975 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.015
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,015 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.047
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,047 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.051
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,051 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.083
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,083 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tags Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.115
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,111 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Scripts Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.155
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,155 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.183
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,183 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.191
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,187 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variable Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.231
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,227 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Hammers Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.235
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,235 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Admin Tab' selected on the VoiceWatch application
+
+
+# Created at 2019-10-30T00:36:14.279
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,279 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.307
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,307 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.315
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,315 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.343
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,343 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Users Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.371
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,371 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Clients Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.403
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,403 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Audit Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.435
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,435 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Admin Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.447
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,447 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Admin Tab' selected on the VoiceWatch application
+
+
+# Created at 2019-10-30T00:36:14.487
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,487 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.509
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,509 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.541
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,541 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.577
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,577 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.601
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,601 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.629
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,629 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.673
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,673 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.705
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,701 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.741
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,741 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.785
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,785 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.809
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,809 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.837
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,837 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.877
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,877 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.901
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,901 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.937
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,937 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.970
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,966 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:14.990
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:14,990 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.035
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,035 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.059
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,059 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.091
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,091 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.127
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,127 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.151
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,147 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.187
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,187 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.211
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,211 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.243
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,243 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.291
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,291 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.319
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,319 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:15.359
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:15,355 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:16.352
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,352 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Overall Performance' displayed under dashoboard tab
+
+
+# Created at 2019-10-30T00:36:16.396
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,392 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Overall Performance' Text appeared under dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.444
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,444 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Failed Calls' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.488
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,484 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Failed Calls' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.541
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,541 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Passed Calls' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.589
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,589 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Passed Calls' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.645
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,645 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Alerts' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.677
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,677 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Alerts' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.729
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,729 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' button dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.761
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,761 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' button enabled under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.809
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,805 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' test appeared on the button under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:16.809
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,809 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that count of the dropdown values are: 5
+
+
+# Created at 2019-10-30T00:36:16.889
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,889 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:16.929
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:16,929 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 4 hours
+
+
+# Created at 2019-10-30T00:36:17.073
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,073 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 6 hours
+
+
+# Created at 2019-10-30T00:36:17.181
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,181 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 12 hours
+
+
+# Created at 2019-10-30T00:36:17.310
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,310 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 24 hours
+
+
+# Created at 2019-10-30T00:36:17.521
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,521 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Day
+
+
+# Created at 2019-10-30T00:36:17.581
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,577 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Overall Performance' displayed under dashoboard tab
+
+
+# Created at 2019-10-30T00:36:17.609
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,609 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Overall Performance' Text appeared under dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.649
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,649 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Failed Calls' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.681
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,677 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Failed Calls' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.717
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,717 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Passed Calls' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.745
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,741 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Passed Calls' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.793
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,789 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Alerts' dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.821
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,821 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Alerts' comtain under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.853
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,849 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' button dislayed under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.881
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,873 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' button enabled under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.913
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,913 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that 'Download CSV' test appeared on the button under Overall Performance section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:17.913
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,913 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that count of the dropdown values are: 5
+
+
+# Created at 2019-10-30T00:36:17.965
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,961 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:17.993
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:17,993 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 4 hours
+
+
+# Created at 2019-10-30T00:36:18.106
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,106 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 6 hours
+
+
+# Created at 2019-10-30T00:36:18.210
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,206 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 12 hours
+
+
+# Created at 2019-10-30T00:36:18.302
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,302 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Last 24 hours
+
+
+# Created at 2019-10-30T00:36:18.402
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,398 pom003_VoiceWatch_Dashboard_Tab.OverallPerfomance_section_dashboard() - Day
+
+
+# Created at 2019-10-30T00:36:18.450
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,450 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Overall Performance' displayed under dashoboard tab
+
+
+# Created at 2019-10-30T00:36:18.486
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,486 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Tests' Text appeared under activetest section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.522
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,522 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'filter' appeared under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.558
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,558 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Passed Calls' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.586
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,586 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Last Call' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.622
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,622 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Name' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.650
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,650 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Name' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.690
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,690 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Failed' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.722
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,718 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Failed' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.758
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,758 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Passed ' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.786
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,786 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Passed' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.823
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,823 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Alerts' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.931
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,931 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Alerts' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:18.971
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,971 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Graph Results' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:19.003
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:18,999 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Graph Results' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:19.039
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:19,039 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Notification Present' dislayed under activetest section section in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:19.071
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:19,071 pom003_VoiceWatch_Dashboard_Tab.activetest_section_dashboard() - Verified that 'Notification Present' coloumn under Tests table in dashboard Tab
+
+
+# Created at 2019-10-30T00:36:19.107
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,107 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.131
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,131 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.155
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,151 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.187
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,187 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.211
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,207 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.235
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,235 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.283
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,279 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.319
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,315 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.358
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,358 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.382
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,382 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.406
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,406 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.430
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,430 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.458
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,458 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.486
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,486 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.518
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,518 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.550
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,550 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.578
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,578 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.610
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,606 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.634
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,630 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.658
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,658 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.718
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,714 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.738
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,738 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.778
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,778 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.806
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,802 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.826
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,826 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.862
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,862 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.878
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,878 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:19.902
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:19,902 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:20.391
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,387 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Show All Errors' checkbox appeared under Alert tab
+
+
+# Created at 2019-10-30T00:36:20.415
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,415 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Show All Errors' checkbox enabled under Alert tab
+
+
+# Created at 2019-10-30T00:36:20.451
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,447 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Show All Errors' checkbox selectable under Alert tab
+
+
+# Created at 2019-10-30T00:36:20.494
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,494 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Filter by test name or tag filter'appeared under Alert tab
+
+
+# Created at 2019-10-30T00:36:20.518
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,518 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Filter by test name or tag filter'enabled under Alert tab
+
+
+# Created at 2019-10-30T00:36:20.547
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,547 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Filter by test name' is blank while select Alert tab
+
+
+# Created at 2019-10-30T00:36:20.587
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,587 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Test Time' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.623
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,619 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Test Time' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.663
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,663 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Test' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.691
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,691 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Test' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.739
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,739 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Error Step' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.783
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,779 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Error Step' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.823
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,819 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Error Message' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.855
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,855 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Error Message' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.895
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,895 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Threshold' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.923
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,923 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Threshold' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.963
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,963 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Severity' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:20.999
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:20,995 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Severity' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.039
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,039 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Alert Status' dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.075
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,075 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Alert Status' coloumn under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.119
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,119 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that count of total alert dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.163
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,159 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Toal' text contain under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.207
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,207 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that count of critical alert dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.255
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,251 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'critical' text contain under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.304
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,304 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that count of Warning alerts dislayed under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.344
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,340 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that 'Warning' text contain under Alerts Tab
+
+
+# Created at 2019-10-30T00:36:21.344
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,344 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that count of the dropdown values are: 5
+
+
+# Created at 2019-10-30T00:36:21.404
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,400 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:21.436
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,432 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Last 4 hours
+
+
+# Created at 2019-10-30T00:36:21.560
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,556 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Last 6 hours
+
+
+# Created at 2019-10-30T00:36:21.672
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,668 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Last 12 hours
+
+
+# Created at 2019-10-30T00:36:21.784
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,784 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Last 24 hours
+
+
+# Created at 2019-10-30T00:36:21.932
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:36:21,932 pom004_VoiceWatch_Alerts_Tab.alertsValidations() - Day
+
+
+# Created at 2019-10-30T00:36:21.996
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:21,996 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.020
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,016 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.053
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,053 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.093
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,093 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.113
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,113 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.133
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,133 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.185
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,185 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.229
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,229 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.273
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,269 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.305
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,301 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.325
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,325 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.349
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,345 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.381
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,377 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.401
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,401 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.437
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,433 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.461
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,461 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.485
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,485 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.517
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,517 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.565
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,565 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.593
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,593 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.625
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,625 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.649
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,645 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.681
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,681 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.701
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,701 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.729
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,729 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.766
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,766 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.794
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,794 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:22.818
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:22,814 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:27.303
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,303 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Tests' label appeared on left side under Tests tab
+
+
+# Created at 2019-10-30T00:36:27.347
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,347 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Tests' Text validated on left side under Test Tab
+
+
+# Created at 2019-10-30T00:36:27.391
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,391 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Filter by test name' box appeared on n left side under Tests tab
+
+
+# Created at 2019-10-30T00:36:27.419
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,415 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Filter by test name or tag filter'enabled under Alert tab
+
+
+# Created at 2019-10-30T00:36:27.448
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,448 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Filter by test name' is blank while access test tab
+
+
+# Created at 2019-10-30T00:36:27.656
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,656 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Test' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:27.752
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,748 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Test' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:27.852
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,852 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Please select a test' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:27.908
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,908 pom005_VoiceWatch_Tests_Tab.testsValidations() - Verified that 'Please select a test ' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:27.968
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:27,964 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.008
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,008 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.048
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,048 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.124
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,120 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.177
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,177 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.241
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,241 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.353
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,353 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.425
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,425 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.505
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,505 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.561
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,561 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.601
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,597 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.645
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,645 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.713
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,713 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.749
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,749 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.785
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,785 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.813
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,813 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.837
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,837 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.873
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,869 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.893
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,893 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.921
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,921 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.954
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,954 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:28.974
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:28,974 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.006
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,006 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.030
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,030 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.054
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,054 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.086
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,086 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.110
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,106 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.134
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,134 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:29.206
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,206 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that new test creation plus (+) icon appeared on top left side under Tests tab
+
+
+# Created at 2019-10-30T00:36:29.206
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:29,206 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Validated the different elements while click Test Creation using button (+)
+
+
+# Created at 2019-10-30T00:36:30.711
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,707 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:30.735
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,735 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save button' is disbaled under Tests tab
+
+
+# Created at 2019-10-30T00:36:30.767
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,767 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:30.815
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,815 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:30.843
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,843 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard button' is disbaled under Tests tab
+
+
+# Created at 2019-10-30T00:36:30.875
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,875 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:30.895
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:30,895 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Delete button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:31.428
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,428 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Test Name' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:31.460
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,460 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Test Name' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:31.496
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,496 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:31.524
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,524 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:31.572
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,572 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Hammer Group Name' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:31.612
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,612 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Hammer Group' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:31.680
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,680 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:31.700
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,700 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:31.716
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,716 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:31.728
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,728 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:31.744
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,744 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:31.756
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,756 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:31.772
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,768 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:31.792
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,792 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:31.804
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,804 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:31.816
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,816 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:31.816
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,816 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'us_hammers' default value as Hammer Group under Test Tab
+
+
+# Created at 2019-10-30T00:36:31.816
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,816 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that count of the dropdown values are: 38
+
+
+# Created at 2019-10-30T00:36:31.872
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:31,872 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:32.049
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,049 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Schedules' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.085
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,085 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Schedules' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.133
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,133 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.161
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,161 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Time-Zone' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.197
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,197 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.237
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,233 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.273
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,273 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' displayed on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.305
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,305 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' enabled on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.341
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,341 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Date' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.373
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,373 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Date' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.413
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,413 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' displayed on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.437
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,437 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Date' enabled on under Tests tab
+
+
+# Created at 2019-10-30T00:36:32.481
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,481 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tie To Scbscription' CheckBox appeared in Test tab
+
+
+# Created at 2019-10-30T00:36:32.514
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,514 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tie To Scbscription' CheckBox enabled in Test tab
+
+
+# Created at 2019-10-30T00:36:32.538
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,538 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tie To Scbscription' CheckBox selected in Test tab
+
+
+# Created at 2019-10-30T00:36:32.583
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,579 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.615
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,611 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.651
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,651 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.687
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,687 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.723
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,723 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Period' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.751
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,751 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Period' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.791
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,791 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Day' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.823
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,823 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Days' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.863
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,859 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Time' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.895
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,895 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Time' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:32.939
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,935 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Time' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:32.971
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:32,971 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Time' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.011
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,011 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(-)' button appeared to remove configured sechedule
+
+
+# Created at 2019-10-30T00:36:33.043
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,039 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(-)' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.083
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,079 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(+)' button appeared to add new configured sechedule
+
+
+# Created at 2019-10-30T00:36:33.107
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,107 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(+)' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.143
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,143 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' field appered under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.167
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,167 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Description' field is enabled under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.207
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,207 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'period' field appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.227
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,227 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'period' value field is enabled under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.267
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,267 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Minute' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.303
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,303 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Mins' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.344
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,340 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Sunday' button appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.372
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,372 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'sun' Text appeared on the button under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.404
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,404 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Sun' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.440
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,440 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Monday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.468
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,468 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'mon' Text appeared on the button under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.492
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,492 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Mon' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.532
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,532 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tuesday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.564
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,564 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tue' Text appeared on the button under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.588
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,588 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Tue' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.632
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,632 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Wednessday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.664
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,664 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Wed' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.696
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,692 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Wed' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.752
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,748 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Thrusday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.792
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,792 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Thu' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.824
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,824 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Thu' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.864
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,864 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Friday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.892
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,892 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Fri' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:33.920
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,920 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Fri' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:33.960
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,960 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Satarday' label appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:33.992
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:33,988 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Sat' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:34.016
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,016 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Sat' button enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:34.052
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,052 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Time' filled appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:34.081
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,081 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Start Time' filled enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:34.117
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,117 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Time Value' filled appeared under Sechedule section in test tab
+
+
+# Created at 2019-10-30T00:36:34.149
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,149 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'End Time Value filled enabled under sechedule section
+
+
+# Created at 2019-10-30T00:36:34.185
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,185 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Script' label appeared under test tab
+
+
+# Created at 2019-10-30T00:36:34.225
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,225 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Script' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:34.261
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,261 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Script name' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:34.291
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,291 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Script Name' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:34.291
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,291 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that script dropdown
+
+
+# Created at 2019-10-30T00:36:34.347
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,343 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:34.359
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,355 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.371
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,367 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.383
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,379 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.391
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,391 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.403
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,403 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.415
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,415 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.427
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,427 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.439
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,439 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.451
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,447 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.459
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,459 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.471
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,471 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.483
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,483 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.495
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,495 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.507
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,507 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.519
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,519 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.531
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,531 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.543
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,543 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.559
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,555 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.571
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,567 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.583
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,579 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.591
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,591 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.603
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,603 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.619
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,619 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.631
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,631 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.643
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,643 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.655
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,655 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.667
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,667 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.679
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,679 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.691
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,691 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.704
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,704 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.716
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,716 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.728
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,728 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.740
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,740 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.752
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,752 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.768
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,768 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - us_hammers
+
+
+# Created at 2019-10-30T00:36:34.780
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,780 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.796
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,792 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.808
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,808 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.820
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,820 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.832
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,832 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.844
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,844 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.856
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,856 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.868
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,868 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.880
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,880 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.892
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,892 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.904
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,904 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.918
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,918 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.930
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,930 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.942
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,941 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.951
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,951 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.963
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,963 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.975
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,975 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:34.991
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,987 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.003
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:34,999 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.015
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,011 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.023
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,023 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.035
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,035 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.051
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,047 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.063
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,059 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.071
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,071 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.087
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,083 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.099
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,099 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.111
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,111 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.123
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,123 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.139
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,139 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.151
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,151 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.164
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,164 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.176
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,176 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.188
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,188 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.200
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,200 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Test
+
+
+# Created at 2019-10-30T00:36:35.212
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,212 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.224
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,224 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.236
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,236 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.252
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,248 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.264
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,260 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.276
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,272 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.288
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,284 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.300
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,300 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.312
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,312 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.324
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,324 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.336
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,336 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.348
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,348 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.360
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,360 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.372
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,372 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.384
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,384 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.396
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,396 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.408
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,408 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.424
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,420 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.432
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,432 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.444
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,444 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.460
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,460 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.472
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,468 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.484
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,484 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.496
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,496 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.509
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,509 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.517
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,517 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.533
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,529 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.541
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,541 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.553
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,553 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.565
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,565 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.577
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,577 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.589
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,589 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.601
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,597 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.609
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,609 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.621
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,621 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - ABCD
+
+
+# Created at 2019-10-30T00:36:35.661
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,661 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Input Parameters' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:35.689
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,689 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Input Parameters' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:35.729
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,729 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Name' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:35.757
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,757 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Name' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:35.802
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,802 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Value' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:35.834
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,834 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Value' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:35.878
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,874 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Masked' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:35.906
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,906 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Masked' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:35.946
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,946 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notifications' label appeared under script section in test tab
+
+
+# Created at 2019-10-30T00:36:35.974
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:35,974 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notifications' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:36.014
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,014 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' label appeared under Notification checkbox in test tab
+
+
+# Created at 2019-10-30T00:36:36.046
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,042 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' Text validated under Notification checkbox in test tab
+
+
+# Created at 2019-10-30T00:36:36.082
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,082 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notifi Enabled Checkbox' appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:36.106
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,106 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notification Enabled' checkbox appeared notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.142
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,142 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' label appeared under Notification checkbox in test tab
+
+
+# Created at 2019-10-30T00:36:36.166
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,166 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' Text validated under Notification checkbox in test tab
+
+
+# Created at 2019-10-30T00:36:36.206
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,202 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notification' label appeared in notification dropdown in test tab
+
+
+# Created at 2019-10-30T00:36:36.234
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,234 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notifications Enabled' Text validated in notification dropdown in test tab
+
+
+# Created at 2019-10-30T00:36:36.274
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,274 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Pattern' label appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:36.310
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,310 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Pattern' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:36.366
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,362 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Severity' label appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:36.398
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,398 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Severity' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:36.434
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,434 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notify on return to good' label appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:36.470
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,466 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notify on return to good' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:36.506
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,506 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(-) reduce notification button appeared under notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.534
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,534 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(-) reduce notification button enabled under notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.575
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,575 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(+) add notification button appeared under notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.619
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,619 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that '(+) add notification button enabled under notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.651
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,651 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notifi Enabled Checkbox' appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:36.687
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,683 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notification Enabled' checkbox appeared notification in Test tab
+
+
+# Created at 2019-10-30T00:36:36.687
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,687 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that Notification dropdown
+
+
+# Created at 2019-10-30T00:36:36.747
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,747 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:36.775
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,775 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.799
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,795 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.823
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,819 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.839
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,835 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.855
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,855 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.871
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,867 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.887
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,887 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.903
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,903 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.919
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,915 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.935
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,931 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.951
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,951 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - --Select Notification--
+
+
+# Created at 2019-10-30T00:36:36.975
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,975 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:36.991
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:36,991 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.007
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,007 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.027
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,023 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.043
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,039 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.055
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,055 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.071
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,071 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.083
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,083 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.099
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,099 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.111
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,111 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.127
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,127 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - <doing nothing>
+
+
+# Created at 2019-10-30T00:36:37.147
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,147 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.159
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,159 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.171
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,171 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.183
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,183 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.195
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,195 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.211
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,207 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.223
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,223 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.235
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,235 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.251
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,247 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.263
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,259 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.275
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,275 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing
+
+
+# Created at 2019-10-30T00:36:37.296
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,296 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.308
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,308 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.320
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,320 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.332
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,332 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.344
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,344 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.356
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,356 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.368
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,368 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.380
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,380 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.392
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,392 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.404
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,404 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.416
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,416 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Testing1
+
+
+# Created at 2019-10-30T00:36:37.436
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,432 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.448
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,448 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.464
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,460 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.476
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,476 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.492
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,492 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.504
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,504 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.516
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,516 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.528
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,528 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.544
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,540 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.556
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,552 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.568
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,564 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome2
+
+
+# Created at 2019-10-30T00:36:37.584
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,584 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.596
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,596 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.608
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,608 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.620
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,620 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.636
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,632 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.652
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,652 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.684
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,680 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.712
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,712 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.744
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,740 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.776
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,776 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.832
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,828 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome3
+
+
+# Created at 2019-10-30T00:36:37.904
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,900 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.924
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,924 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.940
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,940 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.952
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,952 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.964
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,964 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.980
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,976 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:37.992
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:37,992 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:38.008
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,008 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:38.020
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,020 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:38.036
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,032 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:38.048
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,048 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome4
+
+
+# Created at 2019-10-30T00:36:38.073
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,073 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.089
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,085 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.105
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,105 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.117
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,117 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.129
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,129 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.145
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,141 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.157
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,153 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.169
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,165 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.181
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,181 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.193
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,193 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.205
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,205 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome5
+
+
+# Created at 2019-10-30T00:36:38.225
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,221 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.237
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,233 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.249
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,245 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.261
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,261 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.273
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,273 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.285
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,285 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.301
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,297 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.313
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,313 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.329
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,325 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.337
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,337 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.349
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,349 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome6
+
+
+# Created at 2019-10-30T00:36:38.365
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,365 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.377
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,377 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.393
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,389 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.405
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,405 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.417
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,417 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.429
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,429 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.441
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,441 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.453
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,453 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.465
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,465 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.477
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,477 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.489
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,489 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome7
+
+
+# Created at 2019-10-30T00:36:38.510
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,510 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.522
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,522 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.534
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,534 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.546
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,546 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.546
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,546 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.570
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,570 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.582
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,582 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.598
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,594 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.610
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,610 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.622
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,622 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.634
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,634 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Welcome8
+
+
+# Created at 2019-10-30T00:36:38.638
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,634 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that Notification dropdown
+
+
+# Created at 2019-10-30T00:36:38.686
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,686 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:38.706
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,706 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - notify repeatedly
+
+
+# Created at 2019-10-30T00:36:38.718
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,718 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - notify repeatedly
+
+
+# Created at 2019-10-30T00:36:38.734
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,734 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - notify times...
+
+
+# Created at 2019-10-30T00:36:38.746
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,746 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - notify times...
+
+
+# Created at 2019-10-30T00:36:38.787
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,787 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Pattern' filled appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:38.815
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,811 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Pattern' filled enabled under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:38.815
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,815 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that Severity dropdown
+
+
+# Created at 2019-10-30T00:36:38.863
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,863 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:38.879
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,879 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Critical
+
+
+# Created at 2019-10-30T00:36:38.891
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,891 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Critical
+
+
+# Created at 2019-10-30T00:36:38.907
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,907 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Warning
+
+
+# Created at 2019-10-30T00:36:38.919
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,915 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Warning
+
+
+# Created at 2019-10-30T00:36:38.955
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,955 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notify on return to good' Checkbox appeared under Notification in test tab
+
+
+# Created at 2019-10-30T00:36:38.979
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:38,975 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Notify on return to good' checkbox enabled under notification in Test tab
+
+
+# Created at 2019-10-30T00:36:39.015
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,015 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Failure Thresholds' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.043
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,043 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Failure Thresholds' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:39.071
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,071 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Primary Metrics' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.115
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,115 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Primary Metrics' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:39.163
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,159 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Additional Metrics' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.219
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,215 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Additional Metrics' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:39.263
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,263 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' label appeared under Failure Thresholds in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.291
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,291 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Enabled' text validated in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.328
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,328 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Metric' label appeared under Failure Thresholds in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.356
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,356 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Metric' text validated in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.392
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,392 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Criteria' label appeared under Failure Thresholds in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.420
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,420 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Criteria' text validated in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.456
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,456 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Warning' label appeared under Failure Thresholds in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.484
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,484 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Warning' text validated in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.520
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,520 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Critical' label appeared under Failure Thresholds in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.552
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,552 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Critical' text validated in Tests tab
+
+
+# Created at 2019-10-30T00:36:39.577
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,577 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save' button displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.612
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,612 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save' button' is enabled under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.645
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,645 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Save' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:39.681
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,681 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard' button displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.705
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,705 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard' button' is enabled under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.741
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,741 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Discard' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:39.761
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,761 pom005_VoiceWatch_Tests_Tab.createTestbybutton() - Verified that 'Delete button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:39.797
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,793 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.817
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,817 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.849
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,849 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.877
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,877 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.901
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,901 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.938
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,938 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.966
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,966 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:39.990
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:39,990 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.027
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,027 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.051
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,047 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.083
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,083 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.103
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,103 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.127
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,127 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.159
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,159 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.179
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,179 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.203
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,203 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.235
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,235 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.255
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,255 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.283
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,283 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.315
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,311 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.335
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,335 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.359
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,359 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.403
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,399 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.439
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,439 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.475
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,475 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.515
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,515 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.539
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,539 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.563
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,563 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:36:40.563
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,563 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Navigate to Alerts Tab
+
+
+# Created at 2019-10-30T00:36:40.667
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,667 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Again Navigate Back to Test Tab
+
+
+# Created at 2019-10-30T00:36:40.703
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,703 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that new test created link appeared under Tests tab
+
+
+# Created at 2019-10-30T00:36:40.707
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:40,707 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Validated the element pleaset while click Test Creation using button (+)
+
+
+# Created at 2019-10-30T00:36:42.333
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,329 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Save button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.357
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,357 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Save button' is disbaled under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.385
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,385 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Save' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:42.421
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,421 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Discard button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.458
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,454 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Discard button' is disbaled under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.514
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,514 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Discard' Text appeared on save button under Test Tab
+
+
+# Created at 2019-10-30T00:36:42.530
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,530 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Delete button' displayed under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.562
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,562 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Test Name' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.594
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,594 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Test Name' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:42.622
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,622 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Description' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.658
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,658 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Description' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:42.690
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,690 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Hammer Group Name' label appeared on under Tests tab
+
+
+# Created at 2019-10-30T00:36:42.718
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,718 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that 'Hammer Group' Text validated under Test Tab
+
+
+# Created at 2019-10-30T00:36:42.770
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,770 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:42.790
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,790 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - us_hammers
+
+
+# Created at 2019-10-30T00:36:42.806
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,802 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - us_hammers
+
+
+# Created at 2019-10-30T00:36:42.818
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,818 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - us_hammers
+
+
+# Created at 2019-10-30T00:36:42.838
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,838 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Test
+
+
+# Created at 2019-10-30T00:36:42.854
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,850 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Test
+
+
+# Created at 2019-10-30T00:36:42.866
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,866 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Test
+
+
+# Created at 2019-10-30T00:36:42.882
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,882 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - ABCD
+
+
+# Created at 2019-10-30T00:36:42.894
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,894 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - ABCD
+
+
+# Created at 2019-10-30T00:36:42.906
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,906 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - ABCD
+
+
+# Created at 2019-10-30T00:36:42.906
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,906 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that count of the dropdown values are: 38
+
+
+# Created at 2019-10-30T00:36:42.958
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,954 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - Verified that following values available in the dropdown
+
+
+# Created at 2019-10-30T00:36:42.986
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:42,986 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - (GMT -12:00) Eniwetok, Kwajalein
+
+
+# Created at 2019-10-30T00:36:43.475
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:36:43,471 pom005_VoiceWatch_Tests_Tab.createTestbyLink() - (GMT -11:00) Midway Island, Samoa
+
+

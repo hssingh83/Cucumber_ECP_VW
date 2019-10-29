@@ -1,0 +1,625 @@
+# Created at 2019-10-30T00:41:47.686
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-30T00:42:32.947
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:32,947 pom007_VoiceWatch_Script_Tabs.scriptUploadTabValidation() - Verified that create a new script by link is not appeared under Script Upload
+
+
+# Created at 2019-10-30T00:42:33.011
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,011 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' appeared on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.043
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,043 pom002_VoiceWatch_Home_Page.footer() - Verified that 'BackToTop link' enabled on bottom right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.083
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,079 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Back to top' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.136
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,136 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.168
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,168 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' test enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.220
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,216 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.292
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,292 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.348
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,348 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version Number' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.412
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,412 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Version contain 26' release version appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.460
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,456 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' appeared on bottom left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.488
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,488 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix Label' enabled on right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.524
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,524 pom002_VoiceWatch_Home_Page.footer() - Verified that 'Empirix' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.572
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,572 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.600
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,600 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Logo' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.640
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,640 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix Lebel' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.668
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,668 pom002_VoiceWatch_Home_Page.header() - Verified that 'EMPIRIX' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.688
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,688 pom002_VoiceWatch_Home_Page.header() - Verified that 'Empirix label' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.724
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,724 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.748
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,748 pom002_VoiceWatch_Home_Page.header() - Verified that 'Application Name' enabled on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.776
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,776 pom002_VoiceWatch_Home_Page.header() - Verified that 'VoiceWatch' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.824
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,824 pom002_VoiceWatch_Home_Page.header() - Verified that dropdown appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.848
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,848 pom002_VoiceWatch_Home_Page.header() - Verified that dropdwon enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.893
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,893 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.925
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,921 pom002_VoiceWatch_Home_Page.header() - Verified that 'ContacUs' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.953
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,953 pom002_VoiceWatch_Home_Page.header() - Verified that 'Contact Us' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:33.989
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:33,989 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' appeared on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:34.009
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:34,009 pom002_VoiceWatch_Home_Page.header() - Verified that 'help' enabled on top right corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:34.041
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:34,041 pom002_VoiceWatch_Home_Page.header() - Verified that 'Help' Text appeared on top left corner VoiceWatch dashboard
+
+
+# Created at 2019-10-30T00:42:44.216
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T00:42:44.220
+Unexpected IOException with stream:   Scenario: Verify tab elements avaiablity based on User permission                                                   # features/F0003_login_With_Empirix_Business_Analyst.feature:4
+
+
+# Created at 2019-10-30T00:42:44.220
+Unexpected IOException with stream:     Given Initialize the Driver of the browser and provide the URL to login with Empirix Business analyst             # SD0003_login_With_Empirix_Business_Analyst.initialize_the_driver_of_the_browser_and_provide_the_url_to_login_with_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.220
+Unexpected IOException with stream:     When Login with username and password with Empirix Business analyst                                               # SD0003_login_With_Empirix_Business_Analyst.login_with_username_and_password()
+
+
+# Created at 2019-10-30T00:42:44.224
+Unexpected IOException with stream:     Then Verify that login successfully with Empirix Business analyst                                                 # SD0003_login_With_Empirix_Business_Analyst.verify_that_login_successfully_with_empirix_business_analyst_user()
+
+
+# Created at 2019-10-30T00:42:44.224
+Unexpected IOException with stream:     And Tab Availability Validation on the home screen while login with Empirix Business analyst                      # SD0003_login_With_Empirix_Business_Analyst.tab_availability_validation_on_the_home_screen_while_login_with_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.224
+Unexpected IOException with stream:     And Verify header elements on the pages while access home page with Empirix Business analyst                      # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_home_page()
+
+
+# Created at 2019-10-30T00:42:44.228
+Unexpected IOException with stream:     And Verify footer elements on the pages while access home page with Empirix Business analyst                      # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_home_page()
+
+
+# Created at 2019-10-30T00:42:44.228
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.228
+Unexpected IOException with stream:     #            Dashboard Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.232
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.232
+Unexpected IOException with stream:     #@Sanity
+
+
+# Created at 2019-10-30T00:42:44.232
+Unexpected IOException with stream:     #Scenario: Verify that dashboard tab pages
+
+
+# Created at 2019-10-30T00:42:44.232
+Unexpected IOException with stream:     #Given Initialize the Driver of the browser and provide the URL to login with Empirix Admin
+
+
+# Created at 2019-10-30T00:42:44.236
+Unexpected IOException with stream:     When Navigate to dashboard tab with login as Empirix Business analyst                                             # SD0003_login_With_Empirix_Business_Analyst.navigate_to_dashboard_tab()
+
+
+# Created at 2019-10-30T00:42:44.236
+Unexpected IOException with stream:     Then Validate the elements on the OverallPerfomance_section on the dashboard tab page as Empirix Business analyst # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_overallperfomancesection_on_the_dashboard_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.236
+Unexpected IOException with stream:     And Validate the elements on the activetest_section on the dashboard tab page as Empirix Business analyst         # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_activetestsection_on_the_dashboard_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.236
+Unexpected IOException with stream:     And Verify header elements on the pages while access dashboard tab page as Empirix Business analyst               # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_dashboard_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.240
+Unexpected IOException with stream:     And Verify footer elements on the pages while access dashboard tab page as Empirix Business analyst               # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_dashboard_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.240
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.244
+Unexpected IOException with stream:     #            Dashboard Alert Validation
+
+
+# Created at 2019-10-30T00:42:44.244
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.244
+Unexpected IOException with stream:     When Navigate to Alert tab as Empirix Business analyst                                                            # SD0003_login_With_Empirix_Business_Analyst.navigate_to_alert_tab()
+
+
+# Created at 2019-10-30T00:42:44.248
+Unexpected IOException with stream:     Then Validate the elements on the Alert tab page as Empirix Business analyst                                      # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_alert_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.248
+Unexpected IOException with stream:     And Verify header elements on the pages while access alert tab pages as Empirix Business analyst                  # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_alert_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.248
+Unexpected IOException with stream:     And Verify footer elements on the pages while access alert tab pages as Empirix Business analyst                  # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_alert_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.248
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.252
+Unexpected IOException with stream:     #            Test Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.252
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.252
+Unexpected IOException with stream:     When Navigate to Test tab as Empirix Business analyst                                                             # SD0003_login_With_Empirix_Business_Analyst.navigate_to_test_tab()
+
+
+# Created at 2019-10-30T00:42:44.256
+Unexpected IOException with stream:     Then Validate the elements on the Test tab page as Empirix Business analyst                                       # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_test_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.256
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Test tab pages as Empirix Business analyst                   # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_test_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.260
+Unexpected IOException with stream:     And Verify header elements on the pages while access Test tab pages as Empirix Business analyst                   # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_test_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.260
+Unexpected IOException with stream:     #Then Validate element while Create a Test using Test create button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.260
+Unexpected IOException with stream:     #And Verify header elements on the pages while access Test tab while create test using button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.260
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access Test tab while create test using button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.264
+Unexpected IOException with stream:     #Then Validate element while Create a Test using Test create link as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.264
+Unexpected IOException with stream:     #And Verify header elements on the pages while access Test tab while create test using link as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.264
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access Test tab while create test using link as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.264
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.268
+Unexpected IOException with stream:     #            Tag Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.268
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.268
+Unexpected IOException with stream:     When Navigate to Tag tab as Empirix Business analyst                                                              # SD0003_login_With_Empirix_Business_Analyst.navigate_to_tag_tab()
+
+
+# Created at 2019-10-30T00:42:44.268
+Unexpected IOException with stream:     Then Validate the elements on the Tag tab page as Empirix Business analyst                                        # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_tag_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.272
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Tag tab pages as Empirix Business analyst                    # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_tag_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.272
+Unexpected IOException with stream:     And Verify header elements on the pages while access Tag tab pagesas Empirix Business analyst                     # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_tag_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.272
+Unexpected IOException with stream:     #Then Validate element while Create a Tag using Tag create tag button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.276
+Unexpected IOException with stream:     #And Verify header elements on the pages while access Tag tab while create tag using button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.276
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access Tag tab while create tag using button as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.276
+Unexpected IOException with stream:     #Then Validate element while Create a Tag using Tag create link as Empirix Business analyst as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.280
+Unexpected IOException with stream:     #And Verify header elements on the pages while access Tag tab while create tag using link as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.280
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access Tag tab while create tag using link as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.280
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.280
+Unexpected IOException with stream:     #            Script Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.280
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.284
+Unexpected IOException with stream:     When Navigate to Script tab as Empirix Business analyst                                                           # SD0003_login_With_Empirix_Business_Analyst.navigate_to_script_tab()
+
+
+# Created at 2019-10-30T00:42:44.284
+Unexpected IOException with stream:     Then Validate the elements on the GoScriptBuilder tab page as Empirix Business analyst                            # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_goscriptbuilder_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.284
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Script tab pages as Empirix Business analyst                 # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.284
+Unexpected IOException with stream:     And Verify header elements on the pages while access Script tab pages as Empirix Business analyst                 # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_script_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.288
+Unexpected IOException with stream:     #When Navigate to GoScriptBuilder using createGSBbybutton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.288
+Unexpected IOException with stream:     #Then Validate the elements on the GoScriptBuilder while click createGSBbybutton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.288
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access Script tab pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.288
+Unexpected IOException with stream:     #And Verify header elements on the pages while access Script tab pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.292
+Unexpected IOException with stream:     #When Navigate to GoScriptBuilder using createGSBbyLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.292
+Unexpected IOException with stream:     #Then Validate the elements on the GoScriptBuilder while click createGSBbyLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.292
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access createGSBbyLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.292
+Unexpected IOException with stream:     #And Verify header elements on the pages while access createGSBbyLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.296
+Unexpected IOException with stream:     When Navigate to ScriptUpload Tab as Empirix Business analyst                                                     # SD0003_login_With_Empirix_Business_Analyst.navigate_to_scriptupload_tab()
+
+
+# Created at 2019-10-30T00:42:44.296
+Unexpected IOException with stream:     Then navigate to scriptUploadTab and validate the elements on that tab as Empirix Business analyst                # SD0003_login_With_Empirix_Business_Analyst.navigate_to_scriptuploadtab_and_validate_the_elements_on_that_tab()
+
+
+# Created at 2019-10-30T00:42:44.296
+Unexpected IOException with stream:     And Verify footer elements on the pages while access scriptUploadTab pages as Empirix Business analyst            # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_scriptuploadtab_pages()
+
+
+# Created at 2019-10-30T00:42:44.300
+Unexpected IOException with stream:     And Verify header elements on the pages while access scriptUploadTab pages as Empirix Business analyst            # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_scriptuploadtab_pages()
+
+
+# Created at 2019-10-30T00:42:44.300
+Unexpected IOException with stream:     #Then validate the element while clicking createSUbybutton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.300
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access createSUbybutton pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.300
+Unexpected IOException with stream:     #And Verify header elements on the pages while access createSUbybutton pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.304
+Unexpected IOException with stream:     #Then validate the element while clicking createSUbyLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.304
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access createSUbyLink pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.304
+Unexpected IOException with stream:     #And Verify header elements on the pages while access createSUbyLink pages as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.304
+Unexpected IOException with stream:     When Navigate to CSV Tab as Empirix Business analyst                                                              # SD0003_login_With_Empirix_Business_Analyst.navigate_to_csv_tab()
+
+
+# Created at 2019-10-30T00:42:44.308
+Unexpected IOException with stream:       org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-i18n="_csvTransformer_">...</span> is not clickable at point (987, 136). Other element would receive the click: <div ng-show="sharedData.inProcess || sharedData.inLoadingScriptsProcess" class="progress fullpage">...</div>
+        (Session info: chrome=77.0.3865.120)
+      Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+      System info: host: 'REM-L-SINGHH', ip: '10.12.60.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+      Driver info: org.openqa.selenium.chrome.ChromeDriver
+      Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\hsingh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53347}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+      Session ID: a0a4adb3f8a591bb9d42c565412fb1c0
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+      	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+      	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+      	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+      	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+      	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+      	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+      	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+      	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+      	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+      	at stepDefinations.SD0003_login_With_Empirix_Business_Analyst.navigate_to_csv_tab(SD0003_login_With_Empirix_Business_Analyst.java:358)
+      	at ?.When Navigate to CSV Tab as Empirix Business analyst(features/F0003_login_With_Empirix_Business_Analyst.feature:81)
+
+
+
+# Created at 2019-10-30T00:42:44.308
+Unexpected IOException with stream:     Then validate the element while clicking CSV Tab as Empirix Business analyst                                      # SD0003_login_With_Empirix_Business_Analyst.validate_the_element_while_clicking_csv_tab()
+
+
+# Created at 2019-10-30T00:42:44.308
+Unexpected IOException with stream:     And Verify footer elements on the pages while access createSUbyLink pages as Empirix Business analyst             # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-30T00:42:44.312
+Unexpected IOException with stream:     And Verify header elements on the pages while access createSUbyLink pages as Empirix Business analyst             # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_createsubylink_pages()
+
+
+# Created at 2019-10-30T00:42:44.312
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.312
+Unexpected IOException with stream:     #            Variable Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.316
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.316
+Unexpected IOException with stream:     When Navigate to Variable tab as Empirix Business analyst                                                         # SD0003_login_With_Empirix_Business_Analyst.navigate_to_variable_tab()
+
+
+# Created at 2019-10-30T00:42:44.316
+Unexpected IOException with stream:     Then Validate the elements on the Variable tab page as Empirix Business analyst                                   # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_variable_tab_page()
+
+
+# Created at 2019-10-30T00:42:44.316
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Variable tab pages as Empirix Business analyst               # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_variable_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.320
+Unexpected IOException with stream:     And Verify header elements on the pages while access Variable tab pages as Empirix Business analyst               # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_variable_tab_pages()
+
+
+# Created at 2019-10-30T00:42:44.320
+Unexpected IOException with stream:     #When Navigate to Variable using createVariableByButton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.320
+Unexpected IOException with stream:     #Then Validate the elements on the Variable tab while click createVariableByButton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.320
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access createVariableByButton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.324
+Unexpected IOException with stream:     #And Verify header elements on the pages while access createVariableByButton as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.324
+Unexpected IOException with stream:     #When Navigate to Variable using createVariableByLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.324
+Unexpected IOException with stream:     #Then Validate the elements on the Variable tab while click createVariableByLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.328
+Unexpected IOException with stream:     #And Verify footer elements on the pages while access createVariableByLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.328
+Unexpected IOException with stream:     #And Verify header elements on the pages while access createVariableByLink as Empirix Business analyst
+
+
+# Created at 2019-10-30T00:42:44.328
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.328
+Unexpected IOException with stream:     #            Hammer Tab Validation
+
+
+# Created at 2019-10-30T00:42:44.332
+Unexpected IOException with stream:     ####################################################################################
+
+
+# Created at 2019-10-30T00:42:44.332
+Unexpected IOException with stream:     When Navigate to Hammer tab as Empirix Business analyst                                                           # SD0003_login_With_Empirix_Business_Analyst.navigate_to_hammer_tab_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.332
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab page as Empirix Business analyst                                     # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_hammer_tab_page_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.332
+Unexpected IOException with stream:     And Verify footer elements on the pages while access Hammer tab pages as Empirix Business analyst                 # SD0003_login_With_Empirix_Business_Analyst.verify_footer_elements_on_the_pages_while_access_hammer_tab_pages_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.336
+Unexpected IOException with stream:     And Verify header elements on the pages while access Hammer tab pages as Empirix Business analyst                 # SD0003_login_With_Empirix_Business_Analyst.verify_header_elements_on_the_pages_while_access_hammer_tab_pages_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.336
+Unexpected IOException with stream:     When Navigate to Hammer using createHammerByButton as Empirix Business analyst                                    # SD0003_login_With_Empirix_Business_Analyst.navigate_to_hammer_using_createhammerbybutton_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.336
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab while click createHammerByButton as Empirix Business analyst         # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_hammer_tab_while_click_createhammerbybutton_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.336
+Unexpected IOException with stream:     When Navigate to Hammer using createHammerByLink as Empirix Business analyst                                      # SD0003_login_With_Empirix_Business_Analyst.navigate_to_hammer_using_createhammerbylink_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.340
+Unexpected IOException with stream:     Then Validate the elements on the Hammer tab while click createHammerByLink as Empirix Business analyst           # SD0003_login_With_Empirix_Business_Analyst.validate_the_elements_on_the_hammer_tab_while_click_createhammerbylink_as_empirix_business_analyst()
+
+
+# Created at 2019-10-30T00:42:44.340
+Unexpected IOException with stream:     ##################################################################################
+
+
+# Created at 2019-10-30T00:42:44.340
+Unexpected IOException with stream:     And Close the browser successfully which was login as Empirix Business analyst                                    # SD0003_login_With_Empirix_Business_Analyst.close_the_application()
+
+
+# Created at 2019-10-30T00:42:44.344
+Unexpected IOException with stream: 
+Test Case feature failed
+
+
+
+# Created at 2019-10-30T00:42:44.344
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-30T00:42:44.344
+Unexpected IOException: 8,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),null,org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-i18n="_csvTransformer_">...</span> is not clickable at point (987\002C 136). Other element would receive the click: <div ng-show="sharedData.inProcess || sharedData.inLoadingScriptsProcess" class="progress fullpage">...</div>\000A  (Session info: chrome=77.0.3865.120)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'REM-L-SINGHH'\002C ip: '10.12.60.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 77.0.3865.120\002C chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0...\002C userDataDir: C:\005CUsers\005Chsingh\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:53347}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: a0a4adb3f8a591bb9d42c565412fb1c0,null,org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-i18n="_csvTransformer_">...</span> is not clickable at point (987\002C 136). Other element would receive the click: <div ng-show="sharedData.inProcess || sharedData.inLoadingScriptsProcess" class="progress fullpage">...</div>\000A  (Session info: chrome=77.0.3865.120)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'REM-L-SINGHH'\002C ip: '10.12.60.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 77.0.3865.120\002C chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0...\002C userDataDir: C:\005CUsers\005Chsingh\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:53347}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: a0a4adb3f8a591bb9d42c565412fb1c0,TestRunner>AbstractTestNGCucumberTests.feature:21 \00BB Cucumber org.openqa.seleni...,cucumber.runtime.CucumberException: \000Aorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span data-i18n="_csvTransformer_">...</span> is not clickable at point (987\002C 136). Other element would receive the click: <div ng-show="sharedData.inProcess || sharedData.inLoadingScriptsProcess" class="progress fullpage">...</div>\000A  (Session info: chrome=77.0.3865.120)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'REM-L-SINGHH'\002C ip: '10.12.60.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 77.0.3865.120\002C chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0...\002C userDataDir: C:\005CUsers\005Chsingh\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:53347}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: a0a4adb3f8a591bb9d42c565412fb1c0\000ACaused by: org.openqa.selenium.ElementClickInterceptedException: \000Aelement click intercepted: Element <span data-i18n="_csvTransformer_">...</span> is not clickable at point (987\002C 136). Other element would receive the click: <div ng-show="sharedData.inProcess || sharedData.inLoadingScriptsProcess" class="progress fullpage">...</div>\000A  (Session info: chrome=77.0.3865.120)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'REM-L-SINGHH'\002C ip: '10.12.60.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 77.0.3865.120\002C chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0...\002C userDataDir: C:\005CUsers\005Chsingh\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:53347}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: a0a4adb3f8a591bb9d42c565412fb1c0\000A
+
+
+# Created at 2019-10-30T00:42:44.348
+Unexpected IOException: 5,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),cucumber,null,null
+
+
+# Created at 2019-10-30T00:42:44.348
+Unexpected IOException with stream: @Regression @Sanity @4
+
+
+# Created at 2019-10-30T00:42:44.348
+Unexpected IOException with stream: Feature: F0004_Login Voice Watch application with Partner_Customer_Admin creadetails and Validate Elements
+
+
+# Created at 2019-10-30T00:42:46.658
+Unexpected IOException with stream: Oct 30, 2019 12:42:46 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2019-10-30T00:42:46.662
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:46,662 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
+
+
+# Created at 2019-10-30T00:42:46.670
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:42:46,666 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
+
+

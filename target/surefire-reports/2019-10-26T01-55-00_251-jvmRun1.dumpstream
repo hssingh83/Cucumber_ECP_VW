@@ -1,0 +1,25 @@
+# Created at 2019-10-26T02:07:07.817
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-26T02:07:31.621
+Unexpected IOException with stream: [DEBUG] 2019-10-26 02:07:31,617 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Scripts Tab' is not appearing on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T02:07:31.705
+Unexpected IOException with stream: [DEBUG] 2019-10-26 02:07:31,705 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T02:07:31.737
+Unexpected IOException with stream: [DEBUG] 2019-10-26 02:07:31,737 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T02:07:31.745
+Unexpected IOException with stream: [DEBUG] 2019-10-26 02:07:31,745 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variable Tab' not selected on the VoiceWatch dashboard
+
+

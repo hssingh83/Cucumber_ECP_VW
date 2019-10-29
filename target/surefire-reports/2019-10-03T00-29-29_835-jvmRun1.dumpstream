@@ -1,0 +1,36 @@
+# Created at 2019-10-03T00:29:46.246
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-03T00:30:04.945
+Unexpected IOException with stream: [DEBUG] 2019-10-03 00:30:04,945 baseProperties.intializeDriver() - URL provided
+
+
+# Created at 2019-10-03T00:30:06.135
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:30:06,131 baseProperties.intializeDriver() - Screen maximized successfully
+
+
+# Created at 2019-10-03T00:30:06.143
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:30:06,139 baseProperties.intializeDriver() - Waiting to access above URL
+
+
+# Created at 2019-10-03T00:30:06.716
+Unexpected IOException with stream: 0
+
+# Created at 2019-10-03T00:30:06.716
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-03T00:30:06.724
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:30:06,724 pom001_VoiceWatch_logIn_Page.getUsername() - Start inserting User Credetials
+
+
+# Created at 2019-10-03T00:30:06.724
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:30:06,724 pom001_VoiceWatch_logIn_Page.getUsername() - UserName inserted Successfully
+
+

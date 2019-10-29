@@ -1,0 +1,69 @@
+# Created at 2019-10-26T00:25:57.804
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-26T00:25:59.903
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:25:59,899 pom001_VoiceWatch_logIn_Page.getPassword() - Password inserted Successfully
+
+
+# Created at 2019-10-26T00:25:59.986
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:25:59,982 pom001_VoiceWatch_logIn_Page.getSignButton() - Sigin button Clicked Successfully
+
+
+# Created at 2019-10-26T00:26:00.078
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:00,078 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Waiting for launch VoiceWatch application using above creadetails
+
+
+# Created at 2019-10-26T00:26:23.837
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,833 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Verified that VoiceWatch Application login successfully with Partner_Customer_Admin creadetial
+
+
+# Created at 2019-10-26T00:26:23.837
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,837 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Validate the requiment as Aceess Level= Empirix & Role=Business Analyst
+
+
+# Created at 2019-10-26T00:26:23.841
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,837 pom002_VoiceWatch_Home_Page.home_screen() - VoiceWatch home screen verification started while access as Empirix_Admin Usern
+
+
+# Created at 2019-10-26T00:26:23.890
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,890 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' appeared on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-26T00:26:23.918
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,918 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' enabled on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-26T00:26:23.966
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,966 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.002
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:23,998 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.010
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:24,010 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.054
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:24,054 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.094
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:24,094 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.102
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:24,098 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-26T00:26:24.134
+Unexpected IOException with stream: [INFO ] 2019-10-26 00:26:24,134 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tags Tab' appeared on the VoiceWatch dashboard
+
+

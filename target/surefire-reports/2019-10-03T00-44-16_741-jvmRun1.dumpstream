@@ -1,0 +1,21 @@
+# Created at 2019-10-03T00:44:25.824
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-03T00:44:43.582
+Unexpected IOException with stream: [DEBUG] 2019-10-03 00:44:43,582 baseProperties.intializeDriver() - URL provided
+
+
+# Created at 2019-10-03T00:44:44.717
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:44:44,713 baseProperties.intializeDriver() - Screen maximized successfully
+
+
+# Created at 2019-10-03T00:44:44.721
+Unexpected IOException with stream: [INFO ] 2019-10-03 00:44:44,717 baseProperties.intializeDriver() - Waiting to access above URL
+
+

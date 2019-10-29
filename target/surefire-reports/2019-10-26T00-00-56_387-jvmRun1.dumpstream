@@ -1,0 +1,176 @@
+# Created at 2019-10-26T00:02:09.730
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-26T00:02:14.351
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.352
+Unexpected IOException with stream:   Scenario: F001_Verify that login page should accessible and all default element should available on the login page # features/F0001_login_Page_Verification.feature:4
+
+
+# Created at 2019-10-26T00:02:14.355
+Unexpected IOException with stream:     Given Initialize the Driver of the browser and provide the URL                                                   # SD0001_login_Page_Verification.initialize_the_driver_of_the_browser_and_provide_the_url()
+
+
+# Created at 2019-10-26T00:02:14.356
+Unexpected IOException with stream:     When Verify that Voice Watch login page access successfully                                                      # SD0001_login_Page_Verification.access_to_voicewatch_page()
+
+
+# Created at 2019-10-26T00:02:14.357
+Unexpected IOException with stream:       java.lang.NullPointerException
+      	at stepDefinations.SD0001_login_Page_Verification.access_to_voicewatch_page(SD0001_login_Page_Verification.java:34)
+      	at ?.When Verify that Voice Watch login page access successfully(features/F0001_login_Page_Verification.feature:6)
+
+
+
+# Created at 2019-10-26T00:02:14.358
+Unexpected IOException with stream:     Then Verify that default element should available on the login page                                              # SD0001_login_Page_Verification.login_Page_Verification()
+
+
+# Created at 2019-10-26T00:02:14.360
+Unexpected IOException with stream:     And Verify that 'Additional Copy Right' Link clickable                                                           # SD0001_login_Page_Verification.copyRightLink()
+
+
+# Created at 2019-10-26T00:02:14.361
+Unexpected IOException with stream:     And Close the browser successfully                                                                               # SD0001_login_Page_Verification.close_the_application()
+
+
+# Created at 2019-10-26T00:02:14.373
+Unexpected IOException: 8,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),null,java.lang.NullPointerException,null,java.lang.NullPointerException,TestRunner>AbstractTestNGCucumberTests.feature:21 \00BB Cucumber java.lang.NullPoi...,cucumber.runtime.CucumberException: java.lang.NullPointerException\000ACaused by: java.lang.NullPointerException\000A
+
+
+# Created at 2019-10-26T00:02:14.374
+Unexpected IOException with stream: 
+Test Case feature failed
+
+
+
+# Created at 2019-10-26T00:02:14.375
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-26T00:02:14.429
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.433
+Unexpected IOException with stream: Failed scenarios:
+
+
+# Created at 2019-10-26T00:02:14.433
+Unexpected IOException with stream: features/F0001_login_Page_Verification.feature:4 
+
+# Created at 2019-10-26T00:02:14.433
+Unexpected IOException with stream: # Scenario: F001_Verify that login page should accessible and all default element should available on the login page
+
+
+# Created at 2019-10-26T00:02:14.433
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.437
+Unexpected IOException with stream: 1
+
+# Created at 2019-10-26T00:02:14.437
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-10-26T00:02:14.437
+Unexpected IOException with stream: 1 failed
+
+# Created at 2019-10-26T00:02:14.437
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-26T00:02:14.437
+Unexpected IOException with stream: 5
+
+# Created at 2019-10-26T00:02:14.441
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-10-26T00:02:14.441
+Unexpected IOException with stream: 1 failed
+
+# Created at 2019-10-26T00:02:14.441
+Unexpected IOException with stream: , 
+
+# Created at 2019-10-26T00:02:14.441
+Unexpected IOException with stream: 3 skipped
+
+# Created at 2019-10-26T00:02:14.445
+Unexpected IOException with stream: , 
+
+# Created at 2019-10-26T00:02:14.445
+Unexpected IOException with stream: 1 passed
+
+# Created at 2019-10-26T00:02:14.445
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-26T00:02:14.445
+Unexpected IOException with stream: 1m
+
+# Created at 2019-10-26T00:02:14.449
+Unexpected IOException with stream: 15.775s
+
+
+# Created at 2019-10-26T00:02:14.449
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.449
+Unexpected IOException with stream: java.lang.NullPointerException
+
+# Created at 2019-10-26T00:02:14.449
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.453
+Unexpected IOException with stream: 	at stepDefinations.SD0001_login_Page_Verification.access_to_voicewatch_page(SD0001_login_Page_Verification.java:34)
+
+# Created at 2019-10-26T00:02:14.453
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.453
+Unexpected IOException with stream: 	at ?.When Verify that Voice Watch login page access successfully(features/F0001_login_Page_Verification.feature:6)
+
+# Created at 2019-10-26T00:02:14.453
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.453
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-26T00:02:14.481
+Unexpected IOException with stream: 
+ Test Case: 001- Login Page Verification  Completed
+
+
+# Created at 2019-10-26T00:02:14.481
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-26T00:02:14.683
+Unexpected IOException with stream: log4j:WARN No appenders could be found for logger (freemarker.cache).
+
+
+# Created at 2019-10-26T00:02:14.683
+Unexpected IOException with stream: log4j:WARN Please initialize the log4j system properly.
+
+
+# Created at 2019-10-26T00:02:14.683
+Unexpected IOException with stream: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+
+# Created at 2019-10-26T00:02:14.967
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

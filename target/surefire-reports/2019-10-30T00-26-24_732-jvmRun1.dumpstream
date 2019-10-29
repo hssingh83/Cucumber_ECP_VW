@@ -1,0 +1,197 @@
+# Created at 2019-10-30T00:26:33.962
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-30T00:26:43.941
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:26:43,937 basePropertiesCucm.intializeDriver() - Current version is 26.2
+
+
+# Created at 2019-10-30T00:26:43.941
+Unexpected IOException with stream: [DEBUG] 2019-10-30 00:26:43,941 basePropertiesCucm.intializeDriver() - URL provided
+
+
+# Created at 2019-10-30T00:26:45.243
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:45,239 basePropertiesCucm.intializeDriver() - Screen maximized successfully
+
+
+# Created at 2019-10-30T00:26:45.251
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:45,248 basePropertiesCucm.intializeDriver() - Waiting to access above URL
+
+
+# Created at 2019-10-30T00:26:53.624
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,624 TC0001_login_Page_Verification.access_to_voicewatch_page() -  Verified that VoiceWatch login screen appeared successfully
+
+
+# Created at 2019-10-30T00:26:53.628
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,628 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - LogIn Page Label verification Started
+
+
+# Created at 2019-10-30T00:26:53.680
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,676 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Present on login Page
+
+
+# Created at 2019-10-30T00:26:53.708
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,708 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Enabled on login Page
+
+
+# Created at 2019-10-30T00:26:53.744
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,744 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Sign in to continue label' appeared on Login page
+
+
+# Created at 2019-10-30T00:26:53.784
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,784 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'User Name' label' appeared on Login page
+
+
+# Created at 2019-10-30T00:26:53.820
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,820 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Password: label' appeared on Login page
+
+
+# Created at 2019-10-30T00:26:53.856
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,856 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' appeared on Login page
+
+
+# Created at 2019-10-30T00:26:53.884
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,884 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is clickable on Login page
+
+
+# Created at 2019-10-30T00:26:53.920
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,920 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is not selected on Login page
+
+
+# Created at 2019-10-30T00:26:53.964
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,964 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Sign In button is displayed
+
+
+# Created at 2019-10-30T00:26:53.992
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:53,992 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Save button is enabled
+
+
+# Created at 2019-10-30T00:26:54.032
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,032 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Remember my User Name' appeared on login page
+
+
+# Created at 2019-10-30T00:26:54.200
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,196 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Copyright' label is appearing on the page
+
+
+# Created at 2019-10-30T00:26:54.312
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,308 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Additional CopyRight Info present on the page
+
+
+# Created at 2019-10-30T00:26:54.320
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,316 pom001_VoiceWatch_logIn_Page.getCopyRightLink() - Verified that additional copy right link clickable
+
+
+# Created at 2019-10-30T00:26:54.449
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,449 TC0001_login_Page_Verification.copyRightLink() - Verified that 'Additional Copy Right' Link clickable
+
+
+# Created at 2019-10-30T00:26:54.517
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,517 TC0001_login_Page_Verification.copyRightLink() - Verified that addtional infomation'Copyright © 2010-14 ForgeRock AS, all rights reserved.' appered after click link
+
+
+# Created at 2019-10-30T00:26:54.669
+Unexpected IOException with stream: [INFO ] 2019-10-30 00:26:54,669 TC0001_login_Page_Verification.close_the_application() - Application closed successfully
+
+
+# Created at 2019-10-30T00:26:54.673
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T00:26:54.673
+Unexpected IOException with stream:   Scenario: F001_Verify that login page should accessible and all default element should available on the login page # features/F0001_login_Page_Verification.feature:4
+
+
+# Created at 2019-10-30T00:26:54.673
+Unexpected IOException with stream:     Given Initialize the Driver of the browser and provide the URL                                                   # SD0001_login_Page_Verification.initialize_the_driver_of_the_browser_and_provide_the_url()
+
+
+# Created at 2019-10-30T00:26:54.673
+Unexpected IOException with stream:     When Verify that Voice Watch login page access successfully                                                      # SD0001_login_Page_Verification.access_to_voicewatch_page()
+
+
+# Created at 2019-10-30T00:26:54.677
+Unexpected IOException with stream:     Then Verify that default element should available on the login page                                              # SD0001_login_Page_Verification.login_Page_Verification()
+
+
+# Created at 2019-10-30T00:26:54.677
+Unexpected IOException with stream:     And Verify that 'Additional Copy Right' Link clickable                                                           # SD0001_login_Page_Verification.copyRightLink()
+
+
+# Created at 2019-10-30T00:26:54.677
+Unexpected IOException with stream:     And Close the browser successfully                                                                               # SD0001_login_Page_Verification.close_the_application()
+
+
+# Created at 2019-10-30T00:26:54.677
+Unexpected IOException with stream: 
+Test Case feature Passed
+
+
+
+# Created at 2019-10-30T00:26:54.681
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-30T00:26:54.681
+Unexpected IOException: 6,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),null,null,null
+
+
+# Created at 2019-10-30T00:26:54.729
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T00:26:54.733
+Unexpected IOException with stream: 1
+
+# Created at 2019-10-30T00:26:54.737
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-10-30T00:26:54.737
+Unexpected IOException with stream: 1 passed
+
+# Created at 2019-10-30T00:26:54.737
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-30T00:26:54.737
+Unexpected IOException with stream: 5
+
+# Created at 2019-10-30T00:26:54.737
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-10-30T00:26:54.741
+Unexpected IOException with stream: 5 passed
+
+# Created at 2019-10-30T00:26:54.741
+Unexpected IOException with stream: )
+
+
+# Created at 2019-10-30T00:26:54.741
+Unexpected IOException with stream: 0m
+
+# Created at 2019-10-30T00:26:54.741
+Unexpected IOException with stream: 27.547s
+
+
+# Created at 2019-10-30T00:26:54.741
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T00:26:54.761
+Unexpected IOException with stream: 
+ Test Case: 001- Login Page Verification  Completed
+
+
+# Created at 2019-10-30T00:26:54.761
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-30T00:26:55.180
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
