@@ -1,12 +1,2 @@
-[DEBUG] 2019-10-30 00:55:24,460 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
-[DEBUG] 2019-10-30 00:55:24,464 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
-[DEBUG] 2019-10-30 00:55:34,573 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
-[DEBUG] 2019-10-30 00:55:34,573 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
-[DEBUG] 2019-10-30 00:55:55,816 basePropertiesCucm.intializeDriver() - Current version is 26.2
-[DEBUG] 2019-10-30 00:55:55,820 basePropertiesCucm.intializeDriver() - URL provided
-[INFO ] 2019-10-30 00:55:57,006 basePropertiesCucm.intializeDriver() - Screen maximized successfully
-[INFO ] 2019-10-30 00:55:57,014 basePropertiesCucm.intializeDriver() - Waiting to access above URL
-[INFO ] 2019-10-30 00:55:57,492 pom001_VoiceWatch_logIn_Page.getUsername() - Start inserting User Credetials
-[INFO ] 2019-10-30 00:55:57,492 pom001_VoiceWatch_logIn_Page.getUsername() - UserName inserted Successfully
-[DEBUG] 2019-10-30 00:56:15,026 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
-[DEBUG] 2019-10-30 00:56:15,026 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
+[DEBUG] 2019-10-30 02:22:15,505 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
+[DEBUG] 2019-10-30 02:22:15,514 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second

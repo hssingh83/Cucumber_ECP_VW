@@ -1,4 +1,4 @@
-@Regression
+@Regression @Sanity
 Feature: F0003_Login Voice Watch application with Empirix Business analyst creadetails and Validate Elements
 
 Scenario: Verify tab elements avaiablity based on User permission

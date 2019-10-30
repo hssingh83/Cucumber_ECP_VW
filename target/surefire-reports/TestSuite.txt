@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 1.963 s <<< FAILURE! - in TestSuite
-setUpClass(cucumberOptions.TestRunner)  Time elapsed: 1.374 s  <<< FAILURE!
-cucumber.runtime.CucumberException: Unknown option: --tag
-
-tearDownClass(cucumberOptions.TestRunner)  Time elapsed: 1.526 s  <<< FAILURE!
-java.lang.NullPointerException
-
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.019 s - in TestSuite

@@ -1,4 +1,4 @@
-@Regression @Sanity @9
+@Regression
 Feature: F0009_Login Voice Watch application with Client_or_Partner_Client_Developer creadetails and Validate Elements
 
 Scenario: Verify tab elements avaiablity based on User permission

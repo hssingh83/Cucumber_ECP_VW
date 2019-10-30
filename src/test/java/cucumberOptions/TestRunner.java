@@ -9,8 +9,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 		 features = {"classpath:features"},
 //		format = {"json:target/cucumber.json","html:target/cucumber"},
 	    glue= {"stepDefinations"},
-	   tags = {"@Regression,@Sanity,@10,@Hari"},
-	 //   	tags = {"@1" },
+	   tags = {"@Regression,@Sanity"},
+	 //   	tags = {"@Hari" },
 	//		tags = {"@Sanity"},
 	 //   	tags = {"@Regression"},
 	    
