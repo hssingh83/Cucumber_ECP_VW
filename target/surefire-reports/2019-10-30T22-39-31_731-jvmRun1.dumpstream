@@ -1,0 +1,73 @@
+# Created at 2019-10-30T22:40:07.138
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-30T22:40:20.163
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:40:20,159 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Verified that VoiceWatch Application login successfully with Partner_Developer creadetial
+
+
+# Created at 2019-10-30T22:40:20.167
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:40:20,167 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Validate the requiment as Aceess Level= Empirix & Role=Business Analyst
+
+
+# Created at 2019-10-30T22:40:20.171
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,171 pom002_VoiceWatch_Home_Page.home_screen() - VoiceWatch Dashboard Page verification Started
+
+
+# Created at 2019-10-30T22:40:20.227
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,227 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' appeared on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-30T22:40:20.263
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,263 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' enabled on the VoiceWatch dashoboard
+
+
+# Created at 2019-10-30T22:40:20.307
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,307 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.344
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,343 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.351
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,351 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.395
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,395 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.431
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,431 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.441
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,440 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' not selected on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.476
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,476 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tags Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.504
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,504 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Scripts Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.556
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,556 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' appeared on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.588
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,588 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' enabled on the VoiceWatch dashboard
+
+
+# Created at 2019-10-30T22:40:20.596
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:40:20,596 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variable Tab' not selected on the VoiceWatch dashboard
+
+

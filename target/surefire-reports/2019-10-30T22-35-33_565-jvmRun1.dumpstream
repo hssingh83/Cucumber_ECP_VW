@@ -1,0 +1,211 @@
+# Created at 2019-10-30T22:35:42.162
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-30T22:35:51.494
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:35:51,492 basePropertiesCucm.intializeDriver() - Current version is 26.2
+
+
+# Created at 2019-10-30T22:35:51.496
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:35:51,494 basePropertiesCucm.intializeDriver() - URL provided
+
+
+# Created at 2019-10-30T22:35:52.654
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:52,653 basePropertiesCucm.intializeDriver() - Screen maximized successfully
+
+
+# Created at 2019-10-30T22:35:52.656
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:52,655 basePropertiesCucm.intializeDriver() - Waiting to access above URL
+
+
+# Created at 2019-10-30T22:35:58.880
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:58,878 TC0001_login_Page_Verification.access_to_voicewatch_page() -  Verified that VoiceWatch login screen appeared successfully
+
+
+# Created at 2019-10-30T22:35:58.886
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:58,885 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - LogIn Page Label verification Started
+
+
+# Created at 2019-10-30T22:35:58.950
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:58,948 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Present on login Page
+
+
+# Created at 2019-10-30T22:35:58.982
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:58,981 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Empirix Logo Enabled on login Page
+
+
+# Created at 2019-10-30T22:35:59.028
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,026 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Sign in to continue label' appeared on Login page
+
+
+# Created at 2019-10-30T22:35:59.080
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,078 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'User Name' label' appeared on Login page
+
+
+# Created at 2019-10-30T22:35:59.130
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,129 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Password: label' appeared on Login page
+
+
+# Created at 2019-10-30T22:35:59.198
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,196 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' appeared on Login page
+
+
+# Created at 2019-10-30T22:35:59.252
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,250 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is clickable on Login page
+
+
+# Created at 2019-10-30T22:35:59.287
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,286 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'remUserNameCheckbox' is not selected on Login page
+
+
+# Created at 2019-10-30T22:35:59.338
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,336 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Sign In button is displayed
+
+
+# Created at 2019-10-30T22:35:59.372
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,371 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Save button is enabled
+
+
+# Created at 2019-10-30T22:35:59.426
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,425 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Remember my User Name' appeared on login page
+
+
+# Created at 2019-10-30T22:35:59.559
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,559 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that 'Copyright' label is appearing on the page
+
+
+# Created at 2019-10-30T22:35:59.603
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,603 pom001_VoiceWatch_logIn_Page.logPageLabelVerification() - Verified that Additional CopyRight Info present on the page
+
+
+# Created at 2019-10-30T22:35:59.607
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,607 pom001_VoiceWatch_logIn_Page.getCopyRightLink() - Verified that additional copy right link clickable
+
+
+# Created at 2019-10-30T22:35:59.671
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,671 TC0001_login_Page_Verification.copyRightLink() - Verified that 'Additional Copy Right' Link clickable
+
+
+# Created at 2019-10-30T22:35:59.707
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,707 TC0001_login_Page_Verification.copyRightLink() - Verified that addtional infomation'Copyright © 2010-14 ForgeRock AS, all rights reserved.' appered after click link
+
+
+# Created at 2019-10-30T22:35:59.879
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:35:59,875 TC0001_login_Page_Verification.close_the_application() - Application closed successfully
+
+
+# Created at 2019-10-30T22:35:59.879
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T22:35:59.879
+Unexpected IOException with stream:   Scenario: F001_Verify that login page should accessible and all default element should available on the login page # features/F0001_login_Page_Verification.feature:4
+
+
+# Created at 2019-10-30T22:35:59.883
+Unexpected IOException with stream:     Given Initialize the Driver of the browser and provide the URL                                                   # SD0001_login_Page_Verification.initialize_the_driver_of_the_browser_and_provide_the_url()
+
+
+# Created at 2019-10-30T22:35:59.883
+Unexpected IOException with stream:     When Verify that Voice Watch login page access successfully                                                      # SD0001_login_Page_Verification.access_to_voicewatch_page()
+
+
+# Created at 2019-10-30T22:35:59.883
+Unexpected IOException with stream:     Then Verify that default element should available on the login page                                              # SD0001_login_Page_Verification.login_Page_Verification()
+
+
+# Created at 2019-10-30T22:35:59.887
+Unexpected IOException with stream:     And Verify that 'Additional Copy Right' Link clickable                                                           # SD0001_login_Page_Verification.copyRightLink()
+
+
+# Created at 2019-10-30T22:35:59.887
+Unexpected IOException with stream:     And Close the browser successfully                                                                               # SD0001_login_Page_Verification.close_the_application()
+
+
+# Created at 2019-10-30T22:35:59.887
+Unexpected IOException with stream: 
+Test Case feature Passed
+
+
+
+# Created at 2019-10-30T22:35:59.887
+Unexpected IOException with stream: =========================================
+
+
+# Created at 2019-10-30T22:35:59.891
+Unexpected IOException: 6,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),null,null,null
+
+
+# Created at 2019-10-30T22:35:59.891
+Unexpected IOException: 5,1,cucumberOptions.TestRunner,feature(cucumberOptions.TestRunner),cucumber,null,null
+
+
+# Created at 2019-10-30T22:35:59.891
+Unexpected IOException with stream: @Regression @Sanity
+
+
+# Created at 2019-10-30T22:35:59.895
+Unexpected IOException with stream: Feature: F0002_Login Voice Watch application with Empirix Admin credetials and validate
+
+
+# Created at 2019-10-30T22:36:02.137
+Unexpected IOException with stream: Oct 30, 2019 10:36:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2019-10-30T22:36:02.141
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:36:02,141 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
+
+
+# Created at 2019-10-30T22:36:02.145
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:36:02,141 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
+
+
+# Created at 2019-10-30T22:36:12.732
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:36:12,732 basePropertiesCucm.intializeDriver() - Current version is 26.2
+
+
+# Created at 2019-10-30T22:36:12.732
+Unexpected IOException with stream: [DEBUG] 2019-10-30 22:36:12,732 basePropertiesCucm.intializeDriver() - URL provided
+
+
+# Created at 2019-10-30T22:36:13.870
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:13,870 basePropertiesCucm.intializeDriver() - Screen maximized successfully
+
+
+# Created at 2019-10-30T22:36:13.870
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:13,870 basePropertiesCucm.intializeDriver() - Waiting to access above URL
+
+
+# Created at 2019-10-30T22:36:14.429
+Unexpected IOException with stream: 0
+
+# Created at 2019-10-30T22:36:14.429
+Unexpected IOException with stream: 
+
+
+# Created at 2019-10-30T22:36:14.433
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:14,433 pom001_VoiceWatch_logIn_Page.getUsername() - Start inserting User Credetials
+
+
+# Created at 2019-10-30T22:36:14.437
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:14,433 pom001_VoiceWatch_logIn_Page.getUsername() - UserName inserted Successfully
+
+
+# Created at 2019-10-30T22:36:18.534
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:18,534 pom001_VoiceWatch_logIn_Page.getPassword() - Password inserted Successfully
+
+
+# Created at 2019-10-30T22:36:18.723
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:18,719 pom001_VoiceWatch_logIn_Page.getSignButton() - Sigin button Clicked Successfully
+
+
+# Created at 2019-10-30T22:36:18.947
+Unexpected IOException with stream: [INFO ] 2019-10-30 22:36:18,947 TC0001_login_Page_Verification.logInWithExpirixAdmin() - Waiting for launch VoiceWatch application using above creadetails
+
+

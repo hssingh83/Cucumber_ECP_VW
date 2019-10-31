@@ -4,8 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 public class pom007_VoiceWatch_Script_Tabs {
@@ -29,7 +27,13 @@ public class pom007_VoiceWatch_Script_Tabs {
 	
 	By filterByNameGSB=By.xpath("//input[@placeholder='Filter by name']");
 	
-	By createNewScriptByButton=By.xpath("//div[@class='panel-body']//span[@class='glyphicon glyphicon-plus-sign pull-right']");
+//	By createNewScriptByButton=By.xpath("//div[@class='panel-body']//span[@class='glyphicon glyphicon-plus-sign pull-right']");
+	
+	
+	By createNewScriptByButton=By.xpath("//*[@title='Upload a CallMaster script' and @class='glyphicon glyphicon-plus-sign pull-right']");
+	
+	
+	
 	
 	By pleaseSelectlabelGSB=By.xpath("//span[contains(text(),'Please select a script or')]");
 	By createNewScriptBylink=By.linkText("create a new script"); 
@@ -38,6 +42,8 @@ public class pom007_VoiceWatch_Script_Tabs {
 	By callMasterScriptscount=By.xpath("//span[@class='badge pull-right ng-binding']");
 	By filterByNameSU=By.xpath("//input[@placeholder='Filter by name']");
 	By pleaseSelectlabelSU=By.xpath("//span[contains(text(),'Please select a script or')]");
+	
+	By createNewScriptByButtonSU=By.xpath("//*[@title='Upload a CallMaster script' and @class='glyphicon glyphicon-plus-sign pull-right']");
 	By createNewScriptlinkSU=By.xpath("//u[contains(text(),'create a new script')]");
 		
 //	By csvTranformerTab=By.xpath("//span[contains(text(),'CSV Transformer')]");
@@ -81,7 +87,7 @@ public class pom007_VoiceWatch_Script_Tabs {
 //==================================================================================	
 	public void goScriptBuilderTabValidation() throws InterruptedException {	
 
-	//	driver.findElement(scriptsTab).click();	
+		driver.findElement(scriptsTab).click();	
 	//	WebDriverWait wait=new WebDriverWait(driver,100);
 	//	wait.until(ExpectedConditions.visibilityOfElementLocated(goScriptBuilderScriptslabel));
 		
@@ -130,10 +136,10 @@ public class pom007_VoiceWatch_Script_Tabs {
 	public void scriptUploadTabValidation() throws InterruptedException {	
 
 			
-		Thread.sleep(10000);
+		
 		driver.findElement(scriptUploadTab).click();
-	
 		Thread.sleep(10000);
+		
 		
 					
 		Assert.assertTrue(driver.findElement(callMasterScriptslabel).isDisplayed());
@@ -186,9 +192,7 @@ public class pom007_VoiceWatch_Script_Tabs {
 	
 	public void createGSBbybutton() throws InterruptedException {
 		
-		Thread.sleep(10000);
 		driver.findElement(scriptsTab).click();
-		
 		
 		
 		
@@ -299,7 +303,7 @@ public class pom007_VoiceWatch_Script_Tabs {
 	
 public void createGSBbyLink() throws InterruptedException {
 		
-	Thread.sleep(10000);
+	driver.findElement(tagTab).click();
 	driver.findElement(scriptsTab).click();
 	
 
@@ -335,7 +339,7 @@ public void createGSBbyLink() throws InterruptedException {
 			
 			Thread.sleep(10000);
 			driver.findElement(createNewScriptBylink).click();
-			Thread.sleep(10000);
+	
 	
  		log.debug("Validated the element while click create a new script by link");
 		
@@ -416,7 +420,6 @@ public void createSUbyLink() throws InterruptedException {
 	driver.findElement(scriptsTab).click();
 	Thread.sleep(10000);
 	driver.findElement(scriptUploadTab).click();
-	
 		
       if (driver.findElements(createNewScriptBylink).isEmpty()) {
 		
@@ -504,7 +507,7 @@ public void createSUbybutton() throws InterruptedException {
 	Thread.sleep(10000);
 	driver.findElement(scriptUploadTab).click();
 		
-      if (driver.findElements(createNewScriptBylink).isEmpty()) {
+      if (driver.findElements(createNewScriptByButtonSU).isEmpty()) {
 		
     	  log.debug("Verified that create a new script by link is not appeared under Script Upload tab");	
     	  Assert.assertTrue(driver.findElement(callMasterScriptslabel).isDisplayed());
@@ -531,8 +534,8 @@ public void createSUbybutton() throws InterruptedException {
 		log.debug("Verified that create a new script by link is appeared under Script Upload tab");	
 		
 		Thread.sleep(10000);
-		driver.findElement(createNewScriptBylink).click();
-	log.debug("Validated the element while click Script Creation using Link");
+		driver.findElement(createNewScriptByButtonSU).click();
+	log.debug("Validated the element while click Script Creation using button");
 	
 			
 	Assert.assertTrue(driver.findElement(callMasterScriptslabel).isDisplayed());
@@ -587,7 +590,7 @@ public void createSUbybutton() throws InterruptedException {
 //===================================================================================================
 public void csvTabValidation() throws InterruptedException {	
 
-//	driver.findElement(tagTab).click();
+	driver.findElement(tagTab).click();
 	driver.findElement(scriptsTab).click();
 	Thread.sleep(10000);
 	
