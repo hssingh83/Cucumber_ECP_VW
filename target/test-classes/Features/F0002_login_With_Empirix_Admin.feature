@@ -1,4 +1,4 @@
-@Regression @Sanity
+@Regression
 Feature: F0002_Login Voice Watch application with Empirix Admin credetials and validate
 
 Scenario: Verify that login with Empirix Admin page and Verify the element on the home page  
