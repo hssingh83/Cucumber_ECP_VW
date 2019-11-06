@@ -1,4 +1,4 @@
-@Sanity
+@Regression @Sanity
 Feature: Voice Watch Login Empirix Admin
 
 Scenario: F001_Verify that login page should accessible and all default element should available on the login page 
