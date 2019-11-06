@@ -1,6 +1,6 @@
 "# Cucumber_ECP_VW" 
 
-mvn -PRegression test -Dbrowser=chrome -Durl=VoiceWatch-26.2 -Dcucumberoptions="--tags @Hari"
+mvn -PRegression test -Dbrowser=chrome -Durl=VoiceWatch-26.2 -Dcucumberoptions="--tags @Regression ~@Sanity
 
 =================================================================================
 Test Runner

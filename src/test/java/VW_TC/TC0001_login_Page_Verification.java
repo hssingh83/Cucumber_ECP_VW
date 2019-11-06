@@ -9,6 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+
 import PageActions.pom001_VoiceWatch_logIn_Page;
 import resources.basePropertiesCucm;
 
@@ -24,6 +25,7 @@ public class TC0001_login_Page_Verification extends basePropertiesCucm{
 	}
 	
 	@Test(priority=1)
+	
 	public void logInScreenVerification () throws InterruptedException {
 		
 		pom001_VoiceWatch_logIn_Page l=new pom001_VoiceWatch_logIn_Page(driver);

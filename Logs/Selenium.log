@@ -1,0 +1,34 @@
+[DEBUG] 2019-10-31 21:35:14,152 basePropertiesCucm.intializeDriver() - Chrome Driver intilized successfully
+[DEBUG] 2019-10-31 21:35:14,155 basePropertiesCucm.intializeDriver() - Chrome Browser selected & Launching in few second
+[DEBUG] 2019-10-31 21:35:59,481 basePropertiesCucm.intializeDriver() - Current version is 26.2
+[DEBUG] 2019-10-31 21:35:59,481 basePropertiesCucm.intializeDriver() - URL provided
+[INFO ] 2019-10-31 21:36:00,969 basePropertiesCucm.intializeDriver() - Screen maximized successfully
+[INFO ] 2019-10-31 21:36:00,970 basePropertiesCucm.intializeDriver() - Waiting to access above URL
+[INFO ] 2019-10-31 21:36:01,741 pom001_VoiceWatch_logIn_Page.getUsername() - Start inserting User Credetials
+[INFO ] 2019-10-31 21:36:01,745 pom001_VoiceWatch_logIn_Page.getUsername() - UserName inserted Successfully
+[INFO ] 2019-10-31 21:36:07,914 pom001_VoiceWatch_logIn_Page.getPassword() - Password inserted Successfully
+[INFO ] 2019-10-31 21:36:08,013 pom001_VoiceWatch_logIn_Page.getSignButton() - Sigin button Clicked Successfully
+[INFO ] 2019-10-31 21:36:08,205 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Waiting for launch VoiceWatch application using above creadetails
+[INFO ] 2019-10-31 21:37:07,812 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Verified that VoiceWatch Application login successfully with Partner_Developer creadetial
+[INFO ] 2019-10-31 21:37:07,812 TC0001_login_Page_Verification.verify_that_login_successfully_with_empirix_business_analyst_user() - Validate the requiment as Aceess Level= Empirix & Role=Business Analyst
+[DEBUG] 2019-10-31 21:37:07,817 pom002_VoiceWatch_Home_Page.home_screen() - VoiceWatch Dashboard Page verification Started
+[DEBUG] 2019-10-31 21:37:07,875 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' appeared on the VoiceWatch dashoboard
+[DEBUG] 2019-10-31 21:37:07,905 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Dashboard Tab' enabled on the VoiceWatch dashoboard
+[DEBUG] 2019-10-31 21:37:07,953 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:07,992 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' enabled on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,000 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Alerts Tab' not selected on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,046 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,074 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' enabled on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,079 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tests Tab' not selected on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,109 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Tags Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,138 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Scripts Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,182 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,210 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variables Tab' enabled on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:37:08,215 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Variable Tab' not selected on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,336 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Hammers Tab' is not appearing on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,356 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Admin Tab' selected on the VoiceWatch application
+[DEBUG] 2019-10-31 21:38:48,544 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,596 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' enabled on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,606 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Notifications Tab' not selected on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,652 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Users Tab' appeared on the VoiceWatch dashboard
+[DEBUG] 2019-10-31 21:38:48,693 pom002_VoiceWatch_Home_Page.home_screen() - Verified that 'Clients Tab' appeared on the VoiceWatch dashboard
